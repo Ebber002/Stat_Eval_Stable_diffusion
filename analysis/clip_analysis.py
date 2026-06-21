@@ -123,3 +123,30 @@ def language_gap_analysis(paired):
     df = pd.DataFrame(out)
     df.to_csv(RES_DIR / "language_gap_tests.csv", index=False)
     return df
+
+
+# Accuracy analysis (baseline)
+def accuracy_analysis(long):
+    base = long[long["eval_type"] == "Baseline_Accuracy"]
+    rows = []
+    for lang in ["Danish", "English"]:
+        for subj in SUBJECT_ORDER:
+            x = base[(base.language == lang) & (base.subject == subj)]["clip"]
+            m, lo, hi, n = mean_ci(x)
+            rows.append({"language": lang, "subject": subj, "n": n,
+                         "mean": round(m, 4), "sd": round(np.std(x, ddof=1), 4),
+                         "95ci_lo": round(lo, 4), "95ci_hi": round(hi, 4)})
+    summ = pd.DataFrame(rows)
+
+    anova_rows = []
+    for lang in ["Danish", "English"]:
+        groups = [base[(base.language == lang) & (base.subject == s)]["clip"].values for s in SUBJECT_ORDER]
+        f, p = stats.f_oneway(*groups)
+        kw_h, kw_p = stats.kruskal(*groups)
+        anova_rows.append({"language": lang, "F": round(f, 3), "p_anova": p,
+                           "kruskal_H": round(kw_h, 3), "p_kruskal": kw_p})
+    
+    summ.to_csv(RES_DIR / "accuracy_summary.csv", index=False)
+    pd.DataFrame(anova_rows).to_csv(RES_DIR / "accuracy_anova.csv", index=False)
+    return summ
+
