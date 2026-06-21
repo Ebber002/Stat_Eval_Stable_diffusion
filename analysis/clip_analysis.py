@@ -150,3 +150,45 @@ def accuracy_analysis(long):
     pd.DataFrame(anova_rows).to_csv(RES_DIR / "accuracy_anova.csv", index=False)
     return summ
 
+
+# Robustness analysis
+def robustness_analysis(long):
+    rows = []
+    for lang in ["Danish", "English"]:
+        for subj in SUBJECT_ORDER + ["ALL"]:
+            sel = long[long.language == lang]
+            if subj != "ALL":
+                sel = sel[sel.subject == subj]
+            b = sel[sel.eval_type == "Baseline_Accuracy"]["clip"].dropna().values
+            r = sel[sel.eval_type == "Robustness"]["clip"].dropna().values
+            t, p = stats.ttest_ind(b, r, equal_var=False) # Welch's t-test
+            d = cohen_d_independent(b, r)
+            rows.append({"language": lang, "subject": subj,
+                         "n_base": len(b), "n_robust": len(r),
+                         "mean_base": round(b.mean(), 4),
+                         "mean_robust": round(r.mean(), 4),
+                         "drop_base_minus_robust": round(b.mean() - r.mean(), 4),
+                         "welch_t": round(t, 3), "p": p,
+                         "cohen_d": round(d, 3), "effect": d_interpretation(d)})
+    base_vs_robust = pd.DataFrame(rows)
+    base_vs_robust.to_csv(RES_DIR / "robustness_baseline_vs_pooled.csv", index=False)
+
+    # per variation vs baseline
+    rows = []
+    for lang in ["Danish", "English"]:
+        sel = long[long.language == lang]
+        base = sel[sel.eval_type == "Baseline_Accuracy"]["clip"].dropna().values
+        for vr in VARIATION_TYPE.values():
+            x = sel[(sel.eval_type == "Robustness") & (sel.var_type == vr)]["clip"].dropna().values
+            m, lo, hi, n = mean_ci(x)
+            t, p = stats.ttest_ind(base, x, equal_var=False)
+            d = cohen_d_independent(base, x)
+            rows.append({"language": lang, "variation": vr, "n": n,
+                         "mean": round(m, 4), "95ci_lo": round(lo, 4),
+                         "95ci_hi": round(hi, 4),
+                         "vs_baseline_drop": round(base.mean() - m, 4),
+                         "welch_t": round(t, 3), "p_vs_baseline": p,
+                         "cohen_d": round(d, 3), "effect": d_interpretation(d)})
+    variations = pd.DataFrame(rows)
+    variations.to_csv(RES_DIR / "robustness_by_perturbation.csv", index=False)
+    return base_vs_robust, variations
