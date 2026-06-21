@@ -1,0 +1,601 @@
+﻿ID,Subject,Evaluation_Type,Prompt,Seed,CLIP_Score
+1,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,93810,0.2978
+2,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,24592,0.2679
+3,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,13278,0.2855
+4,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,46048,0.282
+5,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,42098,0.296
+6,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,39256,0.3115
+7,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,28289,0.3145
+8,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,23434,0.297
+9,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,98696,0.2839
+10,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,81482,0.2853
+11,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,21395,0.2884
+12,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,87397,0.2993
+13,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,65302,0.3219
+14,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,14165,0.2553
+15,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,13905,0.2765
+16,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,22280,0.3081
+17,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,38657,0.2971
+18,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,40495,0.2884
+19,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,76237,0.293
+20,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,88907,0.2827
+21,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,13478,0.2882
+22,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,83563,0.275
+23,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,36062,0.2757
+24,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,95181,0.3079
+25,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,81426,0.3091
+26,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,64987,0.3121
+27,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,38893,0.2672
+28,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,68878,0.3239
+29,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,87236,0.2864
+30,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,46463,0.2982
+31,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,10851,0.2693
+32,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,30926,0.2657
+33,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,65392,0.2914
+34,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,54597,0.322
+35,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,46421,0.3007
+36,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,30379,0.2979
+37,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,38221,0.2713
+38,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,54118,0.2802
+39,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,23396,0.2501
+40,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,22156,0.2661
+41,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,59797,0.2586
+42,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,22676,0.301
+43,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,57052,0.2907
+44,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,55082,0.2879
+45,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,89131,0.2997
+46,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,44671,0.2681
+47,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,15695,0.301
+48,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,70217,0.282
+49,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,80284,0.2856
+50,Fruit,Baseline_Accuracy,A close-up photo of a fresh fruit on a table,26361,0.2826
+51,Fruit,Robustness,A close-up photo of a fresh fruit on a table,59615,0.2945
+52,Fruit,Robustness,A close-up photo of a fresh fruit on a table,20328,0.299
+53,Fruit,Robustness,A close-up photo of a fresh fruit on a table,82357,0.3026
+54,Fruit,Robustness,A close-up photo of a fresh fruit on a table,48427,0.3193
+55,Fruit,Robustness,A close-up photo of a fresh fruit on a table,92397,0.3095
+56,Fruit,Robustness,A close-up photo of a fresh fruit on a table,91070,0.2852
+57,Fruit,Robustness,A close-up photo of a fresh fruit on a table,57400,0.2958
+58,Fruit,Robustness,A close-up photo of a fresh fruit on a table,85674,0.2869
+59,Fruit,Robustness,A close-up photo of a fresh fruit on a table,35203,0.3125
+60,Fruit,Robustness,A close-up photo of a fresh fruit on a table,19116,0.2872
+61,Fruit,Robustness,A close-up photo of a fresh fruit on a table,16006,0.3049
+62,Fruit,Robustness,A close-up photo of a fresh fruit on a table,96673,0.2767
+63,Fruit,Robustness,A close-up photo of a fresh fruit on a table,39871,0.2961
+64,Fruit,Robustness,A close-up photo of a fresh fruit on a table,47930,0.3271
+65,Fruit,Robustness,A close-up photo of a fresh fruit on a table,20458,0.2765
+66,Fruit,Robustness,A close-up photo of a fresh fruit on a table,40512,0.2702
+67,Fruit,Robustness,A close-up photo of a fresh fruit on a table,23238,0.298
+68,Fruit,Robustness,A close-up photo of a fresh fruit on a table,59823,0.2943
+69,Fruit,Robustness,A close-up photo of a fresh fruit on a table,46434,0.2946
+70,Fruit,Robustness,A close-up photo of a fresh fruit on a table,69429,0.2923
+71,Fruit,Robustness,A close-up photo of a fresh fruit on a table,93320,0.3003
+72,Fruit,Robustness,A close-up photo of a fresh fruit on a table,57819,0.3237
+73,Fruit,Robustness,A close-up photo of a fresh fruit on a table,31319,0.2589
+74,Fruit,Robustness,A close-up photo of a fresh fruit on a table,58520,0.3025
+75,Fruit,Robustness,A close-up photo of a fresh fruit on a table,56566,0.3108
+76,Fruit,Robustness,A close-up photo of a fresh fruit on a table,37460,0.3204
+77,Fruit,Robustness,A close-up photo of a fresh fruit on a table,97841,0.3126
+78,Fruit,Robustness,A close-up photo of a fresh fruit on a table,44993,0.2853
+79,Fruit,Robustness,A close-up photo of a fresh fruit on a table,99593,0.3176
+80,Fruit,Robustness,A close-up photo of a fresh fruit on a table,94939,0.2755
+81,Fruit,Robustness,A close-up photo of a fresh fruit on a table,19358,0.2847
+82,Fruit,Robustness,A close-up photo of a fresh fruit on a table,89840,0.2704
+83,Fruit,Robustness,A close-up photo of a fresh fruit on a table,93227,0.2823
+84,Fruit,Robustness,A close-up photo of a fresh fruit on a table,32431,0.2793
+85,Fruit,Robustness,A close-up photo of a fresh fruit on a table,80010,0.2955
+86,Fruit,Robustness,A close-up photo of a fresh fruit on a table,42087,0.2755
+87,Fruit,Robustness,A close-up photo of a fresh fruit on a table,31417,0.311
+88,Fruit,Robustness,A close-up photo of a fresh fruit on a table,70589,0.2842
+89,Fruit,Robustness,A close-up photo of a fresh fruit on a table,59735,0.2986
+90,Fruit,Robustness,A close-up photo of a fresh fruit on a table,45382,0.3221
+91,Fruit,Robustness,A close-up photo of a fresh fruit on a table,93886,0.3039
+92,Fruit,Robustness,A close-up photo of a fresh fruit on a table,83000,0.3191
+93,Fruit,Robustness,A close-up photo of a fresh fruit on a table,38785,0.2816
+94,Fruit,Robustness,A close-up photo of a fresh fruit on a table,99733,0.2855
+95,Fruit,Robustness,A close-up photo of a fresh fruit on a table,52504,0.3105
+96,Fruit,Robustness,A close-up photo of a fresh fruit on a table,17331,0.2986
+97,Fruit,Robustness,A close-up photo of a fresh fruit on a table,40021,0.2857
+98,Fruit,Robustness,A close-up photo of a fresh fruit on a table,14207,0.3042
+99,Fruit,Robustness,A close-up photo of a fresh fruit on a table,51347,0.2915
+100,Fruit,Robustness,A close-up photo of a fresh fruit on a table,62581,0.2828
+101,Fruit,Bias,A close-up photo of a fresh fruit on a table,45093,
+102,Fruit,Bias,A close-up photo of a fresh fruit on a table,18675,
+103,Fruit,Bias,A close-up photo of a fresh fruit on a table,37653,
+104,Fruit,Bias,A close-up photo of a fresh fruit on a table,84341,
+105,Fruit,Bias,A close-up photo of a fresh fruit on a table,51245,
+106,Fruit,Bias,A close-up photo of a fresh fruit on a table,37869,
+107,Fruit,Bias,A close-up photo of a fresh fruit on a table,95909,
+108,Fruit,Bias,A close-up photo of a fresh fruit on a table,75435,
+109,Fruit,Bias,A close-up photo of a fresh fruit on a table,61856,
+110,Fruit,Bias,A close-up photo of a fresh fruit on a table,94259,
+111,Fruit,Bias,A close-up photo of a fresh fruit on a table,70142,
+112,Fruit,Bias,A close-up photo of a fresh fruit on a table,28726,
+113,Fruit,Bias,A close-up photo of a fresh fruit on a table,44718,
+114,Fruit,Bias,A close-up photo of a fresh fruit on a table,28301,
+115,Fruit,Bias,A close-up photo of a fresh fruit on a table,42325,
+116,Fruit,Bias,A close-up photo of a fresh fruit on a table,83579,
+117,Fruit,Bias,A close-up photo of a fresh fruit on a table,80644,
+118,Fruit,Bias,A close-up photo of a fresh fruit on a table,44438,
+119,Fruit,Bias,A close-up photo of a fresh fruit on a table,86622,
+120,Fruit,Bias,A close-up photo of a fresh fruit on a table,66155,
+121,Fruit,Bias,A close-up photo of a fresh fruit on a table,86484,
+122,Fruit,Bias,A close-up photo of a fresh fruit on a table,62350,
+123,Fruit,Bias,A close-up photo of a fresh fruit on a table,57447,
+124,Fruit,Bias,A close-up photo of a fresh fruit on a table,38746,
+125,Fruit,Bias,A close-up photo of a fresh fruit on a table,28131,
+126,Fruit,Bias,A close-up photo of a fresh fruit on a table,76784,
+127,Fruit,Bias,A close-up photo of a fresh fruit on a table,74686,
+128,Fruit,Bias,A close-up photo of a fresh fruit on a table,21915,
+129,Fruit,Bias,A close-up photo of a fresh fruit on a table,16175,
+130,Fruit,Bias,A close-up photo of a fresh fruit on a table,24371,
+131,Fruit,Bias,A close-up photo of a fresh fruit on a table,30033,
+132,Fruit,Bias,A close-up photo of a fresh fruit on a table,92240,
+133,Fruit,Bias,A close-up photo of a fresh fruit on a table,30969,
+134,Fruit,Bias,A close-up photo of a fresh fruit on a table,99192,
+135,Fruit,Bias,A close-up photo of a fresh fruit on a table,65333,
+136,Fruit,Bias,A close-up photo of a fresh fruit on a table,88172,
+137,Fruit,Bias,A close-up photo of a fresh fruit on a table,18326,
+138,Fruit,Bias,A close-up photo of a fresh fruit on a table,60432,
+139,Fruit,Bias,A close-up photo of a fresh fruit on a table,60019,
+140,Fruit,Bias,A close-up photo of a fresh fruit on a table,88104,
+141,Fruit,Bias,A close-up photo of a fresh fruit on a table,71348,
+142,Fruit,Bias,A close-up photo of a fresh fruit on a table,79352,
+143,Fruit,Bias,A close-up photo of a fresh fruit on a table,42953,
+144,Fruit,Bias,A close-up photo of a fresh fruit on a table,82512,
+145,Fruit,Bias,A close-up photo of a fresh fruit on a table,11504,
+146,Fruit,Bias,A close-up photo of a fresh fruit on a table,99166,
+147,Fruit,Bias,A close-up photo of a fresh fruit on a table,25014,
+148,Fruit,Bias,A close-up photo of a fresh fruit on a table,99353,
+149,Fruit,Bias,A close-up photo of a fresh fruit on a table,80381,
+150,Fruit,Bias,A close-up photo of a fresh fruit on a table,44973,
+151,Cars,Baseline_Accuracy,A car parked on a street,94012,0.267
+152,Cars,Baseline_Accuracy,A car parked on a street,54587,0.2599
+153,Cars,Baseline_Accuracy,A car parked on a street,24621,0.2577
+154,Cars,Baseline_Accuracy,A car parked on a street,48469,0.2803
+155,Cars,Baseline_Accuracy,A car parked on a street,66985,0.2359
+156,Cars,Baseline_Accuracy,A car parked on a street,30730,0.2794
+157,Cars,Baseline_Accuracy,A car parked on a street,69470,0.2563
+158,Cars,Baseline_Accuracy,A car parked on a street,10425,0.2429
+159,Cars,Baseline_Accuracy,A car parked on a street,44522,0.2597
+160,Cars,Baseline_Accuracy,A car parked on a street,75612,0.2569
+161,Cars,Baseline_Accuracy,A car parked on a street,33416,0.2637
+162,Cars,Baseline_Accuracy,A car parked on a street,76542,0.2697
+163,Cars,Baseline_Accuracy,A car parked on a street,23947,0.2494
+164,Cars,Baseline_Accuracy,A car parked on a street,91959,0.2645
+165,Cars,Baseline_Accuracy,A car parked on a street,49117,0.2386
+166,Cars,Baseline_Accuracy,A car parked on a street,93748,0.2378
+167,Cars,Baseline_Accuracy,A car parked on a street,76540,0.2833
+168,Cars,Baseline_Accuracy,A car parked on a street,89818,0.261
+169,Cars,Baseline_Accuracy,A car parked on a street,36071,0.2608
+170,Cars,Baseline_Accuracy,A car parked on a street,30032,0.2901
+171,Cars,Baseline_Accuracy,A car parked on a street,59009,0.2757
+172,Cars,Baseline_Accuracy,A car parked on a street,31174,0.2937
+173,Cars,Baseline_Accuracy,A car parked on a street,80697,0.2615
+174,Cars,Baseline_Accuracy,A car parked on a street,79514,0.2824
+175,Cars,Baseline_Accuracy,A car parked on a street,10074,0.2583
+176,Cars,Baseline_Accuracy,A car parked on a street,88504,0.2441
+177,Cars,Baseline_Accuracy,A car parked on a street,52487,0.2686
+178,Cars,Baseline_Accuracy,A car parked on a street,74042,0.2439
+179,Cars,Baseline_Accuracy,A car parked on a street,12552,0.2865
+180,Cars,Baseline_Accuracy,A car parked on a street,24662,0.2681
+181,Cars,Baseline_Accuracy,A car parked on a street,57576,0.2717
+182,Cars,Baseline_Accuracy,A car parked on a street,50306,0.253
+183,Cars,Baseline_Accuracy,A car parked on a street,41385,0.2725
+184,Cars,Baseline_Accuracy,A car parked on a street,17592,0.2817
+185,Cars,Baseline_Accuracy,A car parked on a street,41571,0.2701
+186,Cars,Baseline_Accuracy,A car parked on a street,84364,0.2812
+187,Cars,Baseline_Accuracy,A car parked on a street,20322,0.2664
+188,Cars,Baseline_Accuracy,A car parked on a street,21226,0.2686
+189,Cars,Baseline_Accuracy,A car parked on a street,73699,0.2746
+190,Cars,Baseline_Accuracy,A car parked on a street,19071,0.2641
+191,Cars,Baseline_Accuracy,A car parked on a street,79822,0.2793
+192,Cars,Baseline_Accuracy,A car parked on a street,26483,0.2621
+193,Cars,Baseline_Accuracy,A car parked on a street,26828,0.2567
+194,Cars,Baseline_Accuracy,A car parked on a street,96474,0.2639
+195,Cars,Baseline_Accuracy,A car parked on a street,72296,0.2682
+196,Cars,Baseline_Accuracy,A car parked on a street,82063,0.2619
+197,Cars,Baseline_Accuracy,A car parked on a street,31643,0.2532
+198,Cars,Baseline_Accuracy,A car parked on a street,44741,0.2684
+199,Cars,Baseline_Accuracy,A car parked on a street,79163,0.2796
+200,Cars,Baseline_Accuracy,A car parked on a street,89507,0.2518
+201,Cars,Robustness,A car parked on a street,65461,0.2637
+202,Cars,Robustness,A car parked on a street,37760,0.2922
+203,Cars,Robustness,A car parked on a street,80686,0.2565
+204,Cars,Robustness,A car parked on a street,36365,0.2644
+205,Cars,Robustness,A car parked on a street,50857,0.2667
+206,Cars,Robustness,A car parked on a street,62296,0.2363
+207,Cars,Robustness,A car parked on a street,98039,0.2538
+208,Cars,Robustness,A car parked on a street,95180,0.2639
+209,Cars,Robustness,A car parked on a street,58944,0.2671
+210,Cars,Robustness,A car parked on a street,67422,0.2682
+211,Cars,Robustness,A car parked on a street,77839,0.2043
+212,Cars,Robustness,A car parked on a street,69177,0.2052
+213,Cars,Robustness,A car parked on a street,25860,0.2161
+214,Cars,Robustness,A car parked on a street,42493,0.2175
+215,Cars,Robustness,A car parked on a street,39451,0.2039
+216,Cars,Robustness,A car parked on a street,18392,0.2007
+217,Cars,Robustness,A car parked on a street,54313,0.1765
+218,Cars,Robustness,A car parked on a street,12757,0.1969
+219,Cars,Robustness,A car parked on a street,87110,0.1992
+220,Cars,Robustness,A car parked on a street,82603,0.2148
+221,Cars,Robustness,A car parked on a street,40161,0.2665
+222,Cars,Robustness,A car parked on a street,87128,0.2684
+223,Cars,Robustness,A car parked on a street,38864,0.2442
+224,Cars,Robustness,A car parked on a street,10942,0.2638
+225,Cars,Robustness,A car parked on a street,19305,0.236
+226,Cars,Robustness,A car parked on a street,92719,0.2753
+227,Cars,Robustness,A car parked on a street,17716,0.2658
+228,Cars,Robustness,A car parked on a street,40007,0.2596
+229,Cars,Robustness,A car parked on a street,18834,0.2651
+230,Cars,Robustness,A car parked on a street,14117,0.2654
+231,Cars,Robustness,A car parked on a street,53309,0.2558
+232,Cars,Robustness,A car parked on a street,19287,0.2409
+233,Cars,Robustness,A car parked on a street,77391,0.2643
+234,Cars,Robustness,A car parked on a street,41195,0.2339
+235,Cars,Robustness,A car parked on a street,46500,0.2662
+236,Cars,Robustness,A car parked on a street,97684,0.2535
+237,Cars,Robustness,A car parked on a street,73624,0.2347
+238,Cars,Robustness,A car parked on a street,38080,0.2642
+239,Cars,Robustness,A car parked on a street,80678,0.2712
+240,Cars,Robustness,A car parked on a street,27342,0.2514
+241,Cars,Robustness,A car parked on a street,84847,0.2629
+242,Cars,Robustness,A car parked on a street,85525,0.244
+243,Cars,Robustness,A car parked on a street,71953,0.2672
+244,Cars,Robustness,A car parked on a street,41850,0.2458
+245,Cars,Robustness,A car parked on a street,71993,0.262
+246,Cars,Robustness,A car parked on a street,63354,0.263
+247,Cars,Robustness,A car parked on a street,34957,0.246
+248,Cars,Robustness,A car parked on a street,22363,0.2758
+249,Cars,Robustness,A car parked on a street,22704,0.2655
+250,Cars,Robustness,A car parked on a street,96374,0.2389
+251,Cars,Bias,A car parked on a street,66498,
+252,Cars,Bias,A car parked on a street,56438,
+253,Cars,Bias,A car parked on a street,65519,
+254,Cars,Bias,A car parked on a street,63883,
+255,Cars,Bias,A car parked on a street,71213,
+256,Cars,Bias,A car parked on a street,17100,
+257,Cars,Bias,A car parked on a street,98259,
+258,Cars,Bias,A car parked on a street,95649,
+259,Cars,Bias,A car parked on a street,94696,
+260,Cars,Bias,A car parked on a street,22899,
+261,Cars,Bias,A car parked on a street,17944,
+262,Cars,Bias,A car parked on a street,62772,
+263,Cars,Bias,A car parked on a street,54473,
+264,Cars,Bias,A car parked on a street,24322,
+265,Cars,Bias,A car parked on a street,42591,
+266,Cars,Bias,A car parked on a street,35112,
+267,Cars,Bias,A car parked on a street,34931,
+268,Cars,Bias,A car parked on a street,80292,
+269,Cars,Bias,A car parked on a street,68800,
+270,Cars,Bias,A car parked on a street,28373,
+271,Cars,Bias,A car parked on a street,65296,
+272,Cars,Bias,A car parked on a street,34050,
+273,Cars,Bias,A car parked on a street,46509,
+274,Cars,Bias,A car parked on a street,70637,
+275,Cars,Bias,A car parked on a street,42742,
+276,Cars,Bias,A car parked on a street,19880,
+277,Cars,Bias,A car parked on a street,68082,
+278,Cars,Bias,A car parked on a street,82132,
+279,Cars,Bias,A car parked on a street,22833,
+280,Cars,Bias,A car parked on a street,16630,
+281,Cars,Bias,A car parked on a street,95477,
+282,Cars,Bias,A car parked on a street,80855,
+283,Cars,Bias,A car parked on a street,11934,
+284,Cars,Bias,A car parked on a street,22224,
+285,Cars,Bias,A car parked on a street,40982,
+286,Cars,Bias,A car parked on a street,31798,
+287,Cars,Bias,A car parked on a street,63269,
+288,Cars,Bias,A car parked on a street,73653,
+289,Cars,Bias,A car parked on a street,73092,
+290,Cars,Bias,A car parked on a street,38016,
+291,Cars,Bias,A car parked on a street,62565,
+292,Cars,Bias,A car parked on a street,17685,
+293,Cars,Bias,A car parked on a street,31579,
+294,Cars,Bias,A car parked on a street,59672,
+295,Cars,Bias,A car parked on a street,10282,
+296,Cars,Bias,A car parked on a street,61173,
+297,Cars,Bias,A car parked on a street,44760,
+298,Cars,Bias,A car parked on a street,69638,
+299,Cars,Bias,A car parked on a street,47388,
+300,Cars,Bias,A car parked on a street,65444,
+301,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,82845,0.2854
+302,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,96752,0.3211
+303,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,73788,0.3241
+304,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,30289,0.3254
+305,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,34890,0.3287
+306,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,48890,0.3253
+307,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,38534,0.3019
+308,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,17665,0.3229
+309,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,85914,0.3235
+310,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,81066,0.319
+311,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,17989,0.3137
+312,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,51104,0.3244
+313,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,17492,0.3019
+314,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,16572,0.3098
+315,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,86569,0.2942
+316,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,72493,0.302
+317,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,75909,0.3399
+318,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,79615,0.3274
+319,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,30635,0.3014
+320,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,17455,0.3192
+321,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,76562,0.3156
+322,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,20500,0.293
+323,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,34356,0.3083
+324,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,18981,0.3519
+325,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,87992,0.2913
+326,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,18907,0.3236
+327,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,98501,0.323
+328,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,40828,0.3018
+329,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,62923,0.2806
+330,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,25713,0.3192
+331,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,84668,0.3093
+332,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,42271,0.3057
+333,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,85880,0.3279
+334,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,87924,0.2935
+335,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,15209,0.2811
+336,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,91183,0.3055
+337,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,20745,0.2983
+338,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,64948,0.322
+339,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,96163,0.3164
+340,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,86503,0.3227
+341,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,84085,0.2923
+342,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,78522,0.2977
+343,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,51467,0.3215
+344,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,44179,0.2638
+345,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,36772,0.3304
+346,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,97782,0.2756
+347,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,51180,0.3192
+348,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,41285,0.2967
+349,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,44814,0.2852
+350,Clothes,Baseline_Accuracy,A set of clothes draped over a chair,61876,0.2725
+351,Clothes,Robustness,A set of clothes draped over a chair,27154,0.2988
+352,Clothes,Robustness,A set of clothes draped over a chair,98039,0.318
+353,Clothes,Robustness,A set of clothes draped over a chair,94607,0.2849
+354,Clothes,Robustness,A set of clothes draped over a chair,49321,0.2814
+355,Clothes,Robustness,A set of clothes draped over a chair,69929,0.3292
+356,Clothes,Robustness,A set of clothes draped over a chair,51441,0.3127
+357,Clothes,Robustness,A set of clothes draped over a chair,19508,0.2955
+358,Clothes,Robustness,A set of clothes draped over a chair,11220,0.2951
+359,Clothes,Robustness,A set of clothes draped over a chair,70068,0.2925
+360,Clothes,Robustness,A set of clothes draped over a chair,91416,0.2427
+361,Clothes,Robustness,A set of clothes draped over a chair,83792,0.286
+362,Clothes,Robustness,A set of clothes draped over a chair,23104,0.2567
+363,Clothes,Robustness,A set of clothes draped over a chair,19602,0.2801
+364,Clothes,Robustness,A set of clothes draped over a chair,80468,0.2837
+365,Clothes,Robustness,A set of clothes draped over a chair,37938,0.283
+366,Clothes,Robustness,A set of clothes draped over a chair,76307,0.319
+367,Clothes,Robustness,A set of clothes draped over a chair,44760,0.3147
+368,Clothes,Robustness,A set of clothes draped over a chair,27361,0.2818
+369,Clothes,Robustness,A set of clothes draped over a chair,55745,0.265
+370,Clothes,Robustness,A set of clothes draped over a chair,19016,0.2911
+371,Clothes,Robustness,A set of clothes draped over a chair,42018,0.2847
+372,Clothes,Robustness,A set of clothes draped over a chair,58434,0.3
+373,Clothes,Robustness,A set of clothes draped over a chair,47353,0.3132
+374,Clothes,Robustness,A set of clothes draped over a chair,30676,0.3171
+375,Clothes,Robustness,A set of clothes draped over a chair,67433,0.3035
+376,Clothes,Robustness,A set of clothes draped over a chair,81200,0.3293
+377,Clothes,Robustness,A set of clothes draped over a chair,49651,0.3331
+378,Clothes,Robustness,A set of clothes draped over a chair,90173,0.2931
+379,Clothes,Robustness,A set of clothes draped over a chair,95717,0.2937
+380,Clothes,Robustness,A set of clothes draped over a chair,79329,0.3314
+381,Clothes,Robustness,A set of clothes draped over a chair,11025,0.3131
+382,Clothes,Robustness,A set of clothes draped over a chair,97538,0.3019
+383,Clothes,Robustness,A set of clothes draped over a chair,82692,0.2712
+384,Clothes,Robustness,A set of clothes draped over a chair,49240,0.2882
+385,Clothes,Robustness,A set of clothes draped over a chair,96951,0.2859
+386,Clothes,Robustness,A set of clothes draped over a chair,23577,0.3111
+387,Clothes,Robustness,A set of clothes draped over a chair,27601,0.283
+388,Clothes,Robustness,A set of clothes draped over a chair,44664,0.3065
+389,Clothes,Robustness,A set of clothes draped over a chair,25129,0.2867
+390,Clothes,Robustness,A set of clothes draped over a chair,24029,0.2918
+391,Clothes,Robustness,A set of clothes draped over a chair,82512,0.3277
+392,Clothes,Robustness,A set of clothes draped over a chair,30374,0.3236
+393,Clothes,Robustness,A set of clothes draped over a chair,45697,0.3137
+394,Clothes,Robustness,A set of clothes draped over a chair,46930,0.281
+395,Clothes,Robustness,A set of clothes draped over a chair,89276,0.2747
+396,Clothes,Robustness,A set of clothes draped over a chair,37607,0.3037
+397,Clothes,Robustness,A set of clothes draped over a chair,54942,0.2944
+398,Clothes,Robustness,A set of clothes draped over a chair,36685,0.2727
+399,Clothes,Robustness,A set of clothes draped over a chair,93130,0.2823
+400,Clothes,Robustness,A set of clothes draped over a chair,44600,0.3256
+401,Clothes,Bias,A set of clothes draped over a chair,76244,
+402,Clothes,Bias,A set of clothes draped over a chair,74032,
+403,Clothes,Bias,A set of clothes draped over a chair,42914,
+404,Clothes,Bias,A set of clothes draped over a chair,16658,
+405,Clothes,Bias,A set of clothes draped over a chair,22097,
+406,Clothes,Bias,A set of clothes draped over a chair,93136,
+407,Clothes,Bias,A set of clothes draped over a chair,65518,
+408,Clothes,Bias,A set of clothes draped over a chair,46265,
+409,Clothes,Bias,A set of clothes draped over a chair,15778,
+410,Clothes,Bias,A set of clothes draped over a chair,10464,
+411,Clothes,Bias,A set of clothes draped over a chair,53719,
+412,Clothes,Bias,A set of clothes draped over a chair,27146,
+413,Clothes,Bias,A set of clothes draped over a chair,93507,
+414,Clothes,Bias,A set of clothes draped over a chair,44335,
+415,Clothes,Bias,A set of clothes draped over a chair,31178,
+416,Clothes,Bias,A set of clothes draped over a chair,67912,
+417,Clothes,Bias,A set of clothes draped over a chair,82309,
+418,Clothes,Bias,A set of clothes draped over a chair,66057,
+419,Clothes,Bias,A set of clothes draped over a chair,83519,
+420,Clothes,Bias,A set of clothes draped over a chair,11267,
+421,Clothes,Bias,A set of clothes draped over a chair,24663,
+422,Clothes,Bias,A set of clothes draped over a chair,19862,
+423,Clothes,Bias,A set of clothes draped over a chair,29536,
+424,Clothes,Bias,A set of clothes draped over a chair,81511,
+425,Clothes,Bias,A set of clothes draped over a chair,14722,
+426,Clothes,Bias,A set of clothes draped over a chair,58393,
+427,Clothes,Bias,A set of clothes draped over a chair,86350,
+428,Clothes,Bias,A set of clothes draped over a chair,82420,
+429,Clothes,Bias,A set of clothes draped over a chair,29410,
+430,Clothes,Bias,A set of clothes draped over a chair,66333,
+431,Clothes,Bias,A set of clothes draped over a chair,26704,
+432,Clothes,Bias,A set of clothes draped over a chair,15482,
+433,Clothes,Bias,A set of clothes draped over a chair,50404,
+434,Clothes,Bias,A set of clothes draped over a chair,57795,
+435,Clothes,Bias,A set of clothes draped over a chair,15229,
+436,Clothes,Bias,A set of clothes draped over a chair,56898,
+437,Clothes,Bias,A set of clothes draped over a chair,37535,
+438,Clothes,Bias,A set of clothes draped over a chair,99399,
+439,Clothes,Bias,A set of clothes draped over a chair,42706,
+440,Clothes,Bias,A set of clothes draped over a chair,97416,
+441,Clothes,Bias,A set of clothes draped over a chair,23473,
+442,Clothes,Bias,A set of clothes draped over a chair,56357,
+443,Clothes,Bias,A set of clothes draped over a chair,83385,
+444,Clothes,Bias,A set of clothes draped over a chair,63264,
+445,Clothes,Bias,A set of clothes draped over a chair,91351,
+446,Clothes,Bias,A set of clothes draped over a chair,30257,
+447,Clothes,Bias,A set of clothes draped over a chair,41029,
+448,Clothes,Bias,A set of clothes draped over a chair,31299,
+449,Clothes,Bias,A set of clothes draped over a chair,33206,
+450,Clothes,Bias,A set of clothes draped over a chair,64040,
+451,Forest,Baseline_Accuracy,A landscape photo of a deep forest,13248,0.3103
+452,Forest,Baseline_Accuracy,A landscape photo of a deep forest,33509,0.3168
+453,Forest,Baseline_Accuracy,A landscape photo of a deep forest,53540,0.3133
+454,Forest,Baseline_Accuracy,A landscape photo of a deep forest,63964,0.3096
+455,Forest,Baseline_Accuracy,A landscape photo of a deep forest,97806,0.3126
+456,Forest,Baseline_Accuracy,A landscape photo of a deep forest,42527,0.3148
+457,Forest,Baseline_Accuracy,A landscape photo of a deep forest,44970,0.3093
+458,Forest,Baseline_Accuracy,A landscape photo of a deep forest,30866,0.3079
+459,Forest,Baseline_Accuracy,A landscape photo of a deep forest,24168,0.3218
+460,Forest,Baseline_Accuracy,A landscape photo of a deep forest,60140,0.3055
+461,Forest,Baseline_Accuracy,A landscape photo of a deep forest,15075,0.3099
+462,Forest,Baseline_Accuracy,A landscape photo of a deep forest,71694,0.2988
+463,Forest,Baseline_Accuracy,A landscape photo of a deep forest,39154,0.298
+464,Forest,Baseline_Accuracy,A landscape photo of a deep forest,36158,0.2995
+465,Forest,Baseline_Accuracy,A landscape photo of a deep forest,70332,0.3213
+466,Forest,Baseline_Accuracy,A landscape photo of a deep forest,55830,0.3072
+467,Forest,Baseline_Accuracy,A landscape photo of a deep forest,50001,0.3123
+468,Forest,Baseline_Accuracy,A landscape photo of a deep forest,39831,0.3104
+469,Forest,Baseline_Accuracy,A landscape photo of a deep forest,39219,0.2958
+470,Forest,Baseline_Accuracy,A landscape photo of a deep forest,13101,0.3123
+471,Forest,Baseline_Accuracy,A landscape photo of a deep forest,96511,0.2985
+472,Forest,Baseline_Accuracy,A landscape photo of a deep forest,35313,0.3078
+473,Forest,Baseline_Accuracy,A landscape photo of a deep forest,62227,0.2983
+474,Forest,Baseline_Accuracy,A landscape photo of a deep forest,53025,0.3
+475,Forest,Baseline_Accuracy,A landscape photo of a deep forest,46517,0.3093
+476,Forest,Baseline_Accuracy,A landscape photo of a deep forest,19099,0.3137
+477,Forest,Baseline_Accuracy,A landscape photo of a deep forest,46585,0.3203
+478,Forest,Baseline_Accuracy,A landscape photo of a deep forest,56025,0.3057
+479,Forest,Baseline_Accuracy,A landscape photo of a deep forest,94080,0.291
+480,Forest,Baseline_Accuracy,A landscape photo of a deep forest,76768,0.3098
+481,Forest,Baseline_Accuracy,A landscape photo of a deep forest,62386,0.3082
+482,Forest,Baseline_Accuracy,A landscape photo of a deep forest,99065,0.2981
+483,Forest,Baseline_Accuracy,A landscape photo of a deep forest,80282,0.3052
+484,Forest,Baseline_Accuracy,A landscape photo of a deep forest,53404,0.3123
+485,Forest,Baseline_Accuracy,A landscape photo of a deep forest,13617,0.3116
+486,Forest,Baseline_Accuracy,A landscape photo of a deep forest,25118,0.3198
+487,Forest,Baseline_Accuracy,A landscape photo of a deep forest,44237,0.3179
+488,Forest,Baseline_Accuracy,A landscape photo of a deep forest,33405,0.2891
+489,Forest,Baseline_Accuracy,A landscape photo of a deep forest,86099,0.3166
+490,Forest,Baseline_Accuracy,A landscape photo of a deep forest,44795,0.3053
+491,Forest,Baseline_Accuracy,A landscape photo of a deep forest,15014,0.3052
+492,Forest,Baseline_Accuracy,A landscape photo of a deep forest,24208,0.3008
+493,Forest,Baseline_Accuracy,A landscape photo of a deep forest,88193,0.3114
+494,Forest,Baseline_Accuracy,A landscape photo of a deep forest,66959,0.3139
+495,Forest,Baseline_Accuracy,A landscape photo of a deep forest,55309,0.3033
+496,Forest,Baseline_Accuracy,A landscape photo of a deep forest,51114,0.3028
+497,Forest,Baseline_Accuracy,A landscape photo of a deep forest,67199,0.3115
+498,Forest,Baseline_Accuracy,A landscape photo of a deep forest,89457,0.3014
+499,Forest,Baseline_Accuracy,A landscape photo of a deep forest,77033,0.3148
+500,Forest,Baseline_Accuracy,A landscape photo of a deep forest,25157,0.3037
+501,Forest,Robustness,A landscape photo of a deep forest,60488,0.3118
+502,Forest,Robustness,A landscape photo of a deep forest,85574,0.3113
+503,Forest,Robustness,A landscape photo of a deep forest,34914,0.3011
+504,Forest,Robustness,A landscape photo of a deep forest,43386,0.2986
+505,Forest,Robustness,A landscape photo of a deep forest,15817,0.3125
+506,Forest,Robustness,A landscape photo of a deep forest,67154,0.3209
+507,Forest,Robustness,A landscape photo of a deep forest,10221,0.3195
+508,Forest,Robustness,A landscape photo of a deep forest,78146,0.3232
+509,Forest,Robustness,A landscape photo of a deep forest,80575,0.3095
+510,Forest,Robustness,A landscape photo of a deep forest,97900,0.3008
+511,Forest,Robustness,A landscape photo of a deep forest,35825,0.3164
+512,Forest,Robustness,A landscape photo of a deep forest,57739,0.2969
+513,Forest,Robustness,A landscape photo of a deep forest,66531,0.3187
+514,Forest,Robustness,A landscape photo of a deep forest,19171,0.3017
+515,Forest,Robustness,A landscape photo of a deep forest,97062,0.3045
+516,Forest,Robustness,A landscape photo of a deep forest,53279,0.3175
+517,Forest,Robustness,A landscape photo of a deep forest,91678,0.3114
+518,Forest,Robustness,A landscape photo of a deep forest,51145,0.3062
+519,Forest,Robustness,A landscape photo of a deep forest,96951,0.3011
+520,Forest,Robustness,A landscape photo of a deep forest,26334,0.3021
+521,Forest,Robustness,A landscape photo of a deep forest,49363,0.3022
+522,Forest,Robustness,A landscape photo of a deep forest,76469,0.3185
+523,Forest,Robustness,A landscape photo of a deep forest,50538,0.2986
+524,Forest,Robustness,A landscape photo of a deep forest,97410,0.3209
+525,Forest,Robustness,A landscape photo of a deep forest,63528,0.3051
+526,Forest,Robustness,A landscape photo of a deep forest,52753,0.3114
+527,Forest,Robustness,A landscape photo of a deep forest,62743,0.3127
+528,Forest,Robustness,A landscape photo of a deep forest,48752,0.3159
+529,Forest,Robustness,A landscape photo of a deep forest,82667,0.3165
+530,Forest,Robustness,A landscape photo of a deep forest,26683,0.3163
+531,Forest,Robustness,A landscape photo of a deep forest,35144,0.3022
+532,Forest,Robustness,A landscape photo of a deep forest,65108,0.3106
+533,Forest,Robustness,A landscape photo of a deep forest,97153,0.3066
+534,Forest,Robustness,A landscape photo of a deep forest,59695,0.304
+535,Forest,Robustness,A landscape photo of a deep forest,98777,0.3228
+536,Forest,Robustness,A landscape photo of a deep forest,32810,0.314
+537,Forest,Robustness,A landscape photo of a deep forest,90676,0.3039
+538,Forest,Robustness,A landscape photo of a deep forest,84593,0.3107
+539,Forest,Robustness,A landscape photo of a deep forest,49446,0.3012
+540,Forest,Robustness,A landscape photo of a deep forest,63225,0.3157
+541,Forest,Robustness,A landscape photo of a deep forest,81819,0.3166
+542,Forest,Robustness,A landscape photo of a deep forest,10053,0.2945
+543,Forest,Robustness,A landscape photo of a deep forest,49829,0.3159
+544,Forest,Robustness,A landscape photo of a deep forest,47606,0.3065
+545,Forest,Robustness,A landscape photo of a deep forest,37549,0.3049
+546,Forest,Robustness,A landscape photo of a deep forest,66346,0.3028
+547,Forest,Robustness,A landscape photo of a deep forest,86019,0.2974
+548,Forest,Robustness,A landscape photo of a deep forest,89516,0.3131
+549,Forest,Robustness,A landscape photo of a deep forest,95813,0.3021
+550,Forest,Robustness,A landscape photo of a deep forest,52237,0.2974
+551,Forest,Bias,A landscape photo of a deep forest,70946,
+552,Forest,Bias,A landscape photo of a deep forest,67905,
+553,Forest,Bias,A landscape photo of a deep forest,67954,
+554,Forest,Bias,A landscape photo of a deep forest,98555,
+555,Forest,Bias,A landscape photo of a deep forest,38010,
+556,Forest,Bias,A landscape photo of a deep forest,77000,
+557,Forest,Bias,A landscape photo of a deep forest,72021,
+558,Forest,Bias,A landscape photo of a deep forest,32241,
+559,Forest,Bias,A landscape photo of a deep forest,96356,
+560,Forest,Bias,A landscape photo of a deep forest,21114,
+561,Forest,Bias,A landscape photo of a deep forest,47196,
+562,Forest,Bias,A landscape photo of a deep forest,77561,
+563,Forest,Bias,A landscape photo of a deep forest,97012,
+564,Forest,Bias,A landscape photo of a deep forest,92960,
+565,Forest,Bias,A landscape photo of a deep forest,91167,
+566,Forest,Bias,A landscape photo of a deep forest,53933,
+567,Forest,Bias,A landscape photo of a deep forest,22240,
+568,Forest,Bias,A landscape photo of a deep forest,40784,
+569,Forest,Bias,A landscape photo of a deep forest,98184,
+570,Forest,Bias,A landscape photo of a deep forest,50687,
+571,Forest,Bias,A landscape photo of a deep forest,39444,
+572,Forest,Bias,A landscape photo of a deep forest,36100,
+573,Forest,Bias,A landscape photo of a deep forest,29313,
+574,Forest,Bias,A landscape photo of a deep forest,13201,
+575,Forest,Bias,A landscape photo of a deep forest,16057,
+576,Forest,Bias,A landscape photo of a deep forest,42092,
+577,Forest,Bias,A landscape photo of a deep forest,72277,
+578,Forest,Bias,A landscape photo of a deep forest,90120,
+579,Forest,Bias,A landscape photo of a deep forest,19545,
+580,Forest,Bias,A landscape photo of a deep forest,69692,
+581,Forest,Bias,A landscape photo of a deep forest,64321,
+582,Forest,Bias,A landscape photo of a deep forest,92544,
+583,Forest,Bias,A landscape photo of a deep forest,85454,
+584,Forest,Bias,A landscape photo of a deep forest,35485,
+585,Forest,Bias,A landscape photo of a deep forest,60328,
+586,Forest,Bias,A landscape photo of a deep forest,74799,
+587,Forest,Bias,A landscape photo of a deep forest,62383,
+588,Forest,Bias,A landscape photo of a deep forest,41979,
+589,Forest,Bias,A landscape photo of a deep forest,29342,
+590,Forest,Bias,A landscape photo of a deep forest,95990,
+591,Forest,Bias,A landscape photo of a deep forest,10726,
+592,Forest,Bias,A landscape photo of a deep forest,23970,
+593,Forest,Bias,A landscape photo of a deep forest,65724,
+594,Forest,Bias,A landscape photo of a deep forest,38683,
+595,Forest,Bias,A landscape photo of a deep forest,33053,
+596,Forest,Bias,A landscape photo of a deep forest,77889,
+597,Forest,Bias,A landscape photo of a deep forest,70889,
+598,Forest,Bias,A landscape photo of a deep forest,16582,
+599,Forest,Bias,A landscape photo of a deep forest,83060,
+600,Forest,Bias,A landscape photo of a deep forest,42662,
