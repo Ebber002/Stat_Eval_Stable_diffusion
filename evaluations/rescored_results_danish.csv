@@ -1,0 +1,601 @@
+﻿ID,Subject,Evaluation_Type,Prompt,Seed,CLIP_Score,clip_own_repro,clip_vs_enref
+1,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,93810,0.2681,0.2681,0.2259
+2,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,24592,0.2581,0.2581,0.1562
+3,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,13278,0.2319,0.2319,0.2411
+4,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,46048,0.2268,0.2268,0.2549
+5,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,42098,0.256,0.256,0.1555
+6,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,39256,0.2569,0.2569,0.1007
+7,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,28289,0.2353,0.2353,0.2552
+8,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,23434,0.2242,0.2242,0.2838
+9,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,98696,0.2415,0.2415,0.2311
+10,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,81482,0.276,0.276,0.2328
+11,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,21395,0.2718,0.2718,0.1613
+12,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,87397,0.2595,0.2595,0.2319
+13,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,65302,0.2317,0.2317,0.2679
+14,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,14165,0.2407,0.2407,0.2593
+15,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,13905,0.2286,0.2286,0.2628
+16,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,22280,0.2329,0.2329,0.2664
+17,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,38657,0.2544,0.2544,0.2449
+18,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,40495,0.2438,0.2438,0.2633
+19,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,76237,0.2734,0.2734,0.197
+20,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,88907,0.262,0.262,0.1296
+21,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,13478,0.2405,0.2405,0.2471
+22,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,83563,0.2758,0.2758,0.145
+23,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,36062,0.2317,0.2317,0.2416
+24,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,95181,0.2266,0.2266,0.1876
+25,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,81426,0.2844,0.2844,0.1069
+26,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,64987,0.2436,0.2436,0.1376
+27,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,38893,0.2377,0.2377,0.2736
+28,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,68878,0.2346,0.2346,0.2578
+29,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,87236,0.2573,0.2573,0.2135
+30,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,46463,0.2998,0.2998,0.2252
+31,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,10851,0.2285,0.2285,0.2006
+32,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,30926,0.2226,0.2226,0.2806
+33,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,65392,0.2613,0.2613,0.1967
+34,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,54597,0.224,0.224,0.2365
+35,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,46421,0.2693,0.2693,0.2169
+36,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,30379,0.2375,0.2375,0.2654
+37,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,38221,0.2217,0.2217,0.2508
+38,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,54118,0.2654,0.2654,0.0956
+39,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,23396,0.2661,0.2661,0.2377
+40,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,22156,0.2717,0.2717,0.2014
+41,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,59797,0.225,0.225,0.2508
+42,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,22676,0.2587,0.2587,0.1239
+43,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,57052,0.275,0.275,0.2618
+44,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,55082,0.2367,0.2367,0.2972
+45,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,89131,0.2897,0.2897,0.2695
+46,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,44671,0.2635,0.2635,0.1433
+47,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,15695,0.2392,0.2392,0.234
+48,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,70217,0.2699,0.2699,0.2471
+49,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,80284,0.2618,0.2618,0.292
+50,Frugt,Baseline_Accuracy,Et nærbillede af en frisk frugt på et bord,26361,0.2609,0.2609,0.1199
+51,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,59615,0.2689,0.2689,0.1611
+52,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,20328,0.2386,0.2386,0.2713
+53,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,82357,0.2804,0.2804,0.2141
+54,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,48427,0.2518,0.2518,0.2489
+55,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,92397,0.2326,0.2326,0.231
+56,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,91070,0.2331,0.2331,0.2236
+57,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,57400,0.2503,0.2503,0.1344
+58,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,85674,0.2725,0.2725,0.1729
+59,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,35203,0.2637,0.2637,0.0828
+60,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,19116,0.2281,0.2281,0.2484
+61,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,16006,0.2877,0.2877,0.0951
+62,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,96673,0.2133,0.2133,0.2999
+63,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,39871,0.2498,0.2498,0.0993
+64,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,47930,0.249,0.249,0.1212
+65,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,20458,0.2342,0.2342,0.2706
+66,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,40512,0.2568,0.2568,0.1284
+67,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,23238,0.2434,0.2434,0.0881
+68,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,59823,0.2679,0.2679,0.1989
+69,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,46434,0.216,0.216,0.2555
+70,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,69429,0.2227,0.2227,0.2825
+71,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,93320,0.2497,0.2497,0.1122
+72,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,57819,0.2471,0.2471,0.0813
+73,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,31319,0.2569,0.2569,0.104
+74,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,58520,0.2408,0.2408,0.1085
+75,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,56566,0.2772,0.2772,0.1344
+76,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,37460,0.2783,0.2783,0.1151
+77,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,97841,0.2516,0.2516,0.1047
+78,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,44993,0.2237,0.2237,0.0705
+79,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,99593,0.2451,0.2451,0.1472
+80,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,94939,0.2529,0.2529,0.1872
+81,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,19358,0.2323,0.2323,0.1312
+82,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,89840,0.2343,0.2343,0.1883
+83,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,93227,0.2246,0.2246,0.2921
+84,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,32431,0.2313,0.2313,0.1373
+85,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,80010,0.2265,0.2265,0.2555
+86,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,42087,0.2112,0.2112,0.2065
+87,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,31417,0.2562,0.2562,0.249
+88,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,70589,0.2398,0.2398,0.1482
+89,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,59735,0.2282,0.2282,0.1699
+90,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,45382,0.2395,0.2395,0.1973
+91,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,93886,0.2792,0.2792,0.2262
+92,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,83000,0.2598,0.2598,0.0896
+93,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,38785,0.2327,0.2327,0.1496
+94,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,99733,0.2643,0.2643,0.2094
+95,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,52504,0.2427,0.2427,0.129
+96,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,17331,0.2391,0.2391,0.088
+97,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,40021,0.2472,0.2472,0.098
+98,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,14207,0.2262,0.2262,0.1126
+99,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,51347,0.2205,0.2205,0.1533
+100,Frugt,Robustness,Et nærbillede af en frisk frugt på et bord,62581,0.2579,0.2579,0.1182
+101,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,45093,,,
+102,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,18675,,,
+103,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,37653,,,
+104,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,84341,,,
+105,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,51245,,,
+106,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,37869,,,
+107,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,95909,,,
+108,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,75435,,,
+109,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,61856,,,
+110,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,94259,,,
+111,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,70142,,,
+112,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,28726,,,
+113,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,44718,,,
+114,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,28301,,,
+115,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,42325,,,
+116,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,83579,,,
+117,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,80644,,,
+118,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,44438,,,
+119,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,86622,,,
+120,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,66155,,,
+121,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,86484,,,
+122,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,62350,,,
+123,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,57447,,,
+124,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,38746,,,
+125,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,28131,,,
+126,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,76784,,,
+127,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,74686,,,
+128,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,21915,,,
+129,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,16175,,,
+130,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,24371,,,
+131,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,30033,,,
+132,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,92240,,,
+133,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,30969,,,
+134,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,99192,,,
+135,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,65333,,,
+136,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,88172,,,
+137,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,18326,,,
+138,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,60432,,,
+139,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,60019,,,
+140,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,88104,,,
+141,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,71348,,,
+142,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,79352,,,
+143,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,42953,,,
+144,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,82512,,,
+145,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,11504,,,
+146,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,99166,,,
+147,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,25014,,,
+148,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,99353,,,
+149,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,80381,,,
+150,Frugt,Bias,Et nærbillede af en frisk frugt på et bord,44973,,,
+151,Biler,Baseline_Accuracy,En bil parkeret på en gade,94012,0.2686,0.2686,0.2088
+152,Biler,Baseline_Accuracy,En bil parkeret på en gade,54587,0.2645,0.2645,0.2192
+153,Biler,Baseline_Accuracy,En bil parkeret på en gade,24621,0.2757,0.2757,0.2284
+154,Biler,Baseline_Accuracy,En bil parkeret på en gade,48469,0.2804,0.2804,0.2441
+155,Biler,Baseline_Accuracy,En bil parkeret på en gade,66985,0.2673,0.2673,0.2426
+156,Biler,Baseline_Accuracy,En bil parkeret på en gade,30730,0.2623,0.2623,0.2313
+157,Biler,Baseline_Accuracy,En bil parkeret på en gade,69470,0.2316,0.2316,0.201
+158,Biler,Baseline_Accuracy,En bil parkeret på en gade,10425,0.2571,0.2571,0.2445
+159,Biler,Baseline_Accuracy,En bil parkeret på en gade,44522,0.2558,0.2558,0.2158
+160,Biler,Baseline_Accuracy,En bil parkeret på en gade,75612,0.2753,0.2753,0.2381
+161,Biler,Baseline_Accuracy,En bil parkeret på en gade,33416,0.2411,0.2411,0.2442
+162,Biler,Baseline_Accuracy,En bil parkeret på en gade,76542,0.2609,0.2609,0.2665
+163,Biler,Baseline_Accuracy,En bil parkeret på en gade,23947,0.2663,0.2663,0.2651
+164,Biler,Baseline_Accuracy,En bil parkeret på en gade,91959,0.2415,0.2415,0.2301
+165,Biler,Baseline_Accuracy,En bil parkeret på en gade,49117,0.2556,0.2556,0.2056
+166,Biler,Baseline_Accuracy,En bil parkeret på en gade,93748,0.2668,0.2668,0.247
+167,Biler,Baseline_Accuracy,En bil parkeret på en gade,76540,0.2461,0.2461,0.2304
+168,Biler,Baseline_Accuracy,En bil parkeret på en gade,89818,0.2782,0.2782,0.2368
+169,Biler,Baseline_Accuracy,En bil parkeret på en gade,36071,0.2561,0.2561,0.2517
+170,Biler,Baseline_Accuracy,En bil parkeret på en gade,30032,0.2768,0.2768,0.2485
+171,Biler,Baseline_Accuracy,En bil parkeret på en gade,59009,0.2667,0.2667,0.2493
+172,Biler,Baseline_Accuracy,En bil parkeret på en gade,31174,0.2567,0.2567,0.2557
+173,Biler,Baseline_Accuracy,En bil parkeret på en gade,80697,0.2682,0.2682,0.2573
+174,Biler,Baseline_Accuracy,En bil parkeret på en gade,79514,0.2791,0.2791,0.2406
+175,Biler,Baseline_Accuracy,En bil parkeret på en gade,10074,0.2602,0.2602,0.2305
+176,Biler,Baseline_Accuracy,En bil parkeret på en gade,88504,0.2628,0.2628,0.2608
+177,Biler,Baseline_Accuracy,En bil parkeret på en gade,52487,0.2812,0.2812,0.2479
+178,Biler,Baseline_Accuracy,En bil parkeret på en gade,74042,0.2854,0.2854,0.2447
+179,Biler,Baseline_Accuracy,En bil parkeret på en gade,12552,0.2554,0.2554,0.2621
+180,Biler,Baseline_Accuracy,En bil parkeret på en gade,24662,0.2044,0.2044,0.2043
+181,Biler,Baseline_Accuracy,En bil parkeret på en gade,57576,0.2631,0.2631,0.2683
+182,Biler,Baseline_Accuracy,En bil parkeret på en gade,50306,0.2581,0.2581,0.2318
+183,Biler,Baseline_Accuracy,En bil parkeret på en gade,41385,0.2407,0.2407,0.2414
+184,Biler,Baseline_Accuracy,En bil parkeret på en gade,17592,0.2646,0.2646,0.2515
+185,Biler,Baseline_Accuracy,En bil parkeret på en gade,41571,0.2622,0.2622,0.2579
+186,Biler,Baseline_Accuracy,En bil parkeret på en gade,84364,0.2432,0.2432,0.2208
+187,Biler,Baseline_Accuracy,En bil parkeret på en gade,20322,0.2853,0.2853,0.2552
+188,Biler,Baseline_Accuracy,En bil parkeret på en gade,21226,0.2506,0.2506,0.2268
+189,Biler,Baseline_Accuracy,En bil parkeret på en gade,73699,0.2799,0.2799,0.2498
+190,Biler,Baseline_Accuracy,En bil parkeret på en gade,19071,0.2644,0.2644,0.2197
+191,Biler,Baseline_Accuracy,En bil parkeret på en gade,79822,0.2579,0.2579,0.2398
+192,Biler,Baseline_Accuracy,En bil parkeret på en gade,26483,0.2547,0.2547,0.2279
+193,Biler,Baseline_Accuracy,En bil parkeret på en gade,26828,0.2695,0.2695,0.2435
+194,Biler,Baseline_Accuracy,En bil parkeret på en gade,96474,0.2481,0.2481,0.2313
+195,Biler,Baseline_Accuracy,En bil parkeret på en gade,72296,0.2549,0.2549,0.1879
+196,Biler,Baseline_Accuracy,En bil parkeret på en gade,82063,0.2494,0.2494,0.2363
+197,Biler,Baseline_Accuracy,En bil parkeret på en gade,31643,0.2712,0.2712,0.256
+198,Biler,Baseline_Accuracy,En bil parkeret på en gade,44741,0.2516,0.2516,0.2483
+199,Biler,Baseline_Accuracy,En bil parkeret på en gade,79163,0.2913,0.2913,0.2726
+200,Biler,Baseline_Accuracy,En bil parkeret på en gade,89507,0.2694,0.2694,0.2181
+201,Biler,Robustness,En bil parkeret på en gade,65461,0.2323,0.2323,0.1998
+202,Biler,Robustness,En bil parkeret på en gade,37760,0.2714,0.2714,0.2853
+203,Biler,Robustness,En bil parkeret på en gade,80686,0.2613,0.2613,0.24
+204,Biler,Robustness,En bil parkeret på en gade,36365,0.2837,0.2837,0.2266
+205,Biler,Robustness,En bil parkeret på en gade,50857,0.2554,0.2554,0.2399
+206,Biler,Robustness,En bil parkeret på en gade,62296,0.2743,0.2743,0.2463
+207,Biler,Robustness,En bil parkeret på en gade,98039,0.2758,0.2758,0.2489
+208,Biler,Robustness,En bil parkeret på en gade,95180,0.2758,0.2758,0.2631
+209,Biler,Robustness,En bil parkeret på en gade,58944,0.2612,0.2612,0.2709
+210,Biler,Robustness,En bil parkeret på en gade,67422,0.2814,0.2814,0.2738
+211,Biler,Robustness,En bil parkeret på en gade,77839,0.2367,0.2367,0.2195
+212,Biler,Robustness,En bil parkeret på en gade,69177,0.2264,0.2264,0.2091
+213,Biler,Robustness,En bil parkeret på en gade,25860,0.2167,0.2167,0.1803
+214,Biler,Robustness,En bil parkeret på en gade,42493,0.2122,0.2122,0.1841
+215,Biler,Robustness,En bil parkeret på en gade,39451,0.2347,0.2347,0.1828
+216,Biler,Robustness,En bil parkeret på en gade,18392,0.2337,0.2337,0.1439
+217,Biler,Robustness,En bil parkeret på en gade,54313,0.2743,0.2743,0.2063
+218,Biler,Robustness,En bil parkeret på en gade,12757,0.2188,0.2188,0.2369
+219,Biler,Robustness,En bil parkeret på en gade,87110,0.2292,0.2292,0.1682
+220,Biler,Robustness,En bil parkeret på en gade,82603,0.2554,0.2554,0.2368
+221,Biler,Robustness,En bil parkeret på en gade,40161,0.2557,0.2557,0.2287
+222,Biler,Robustness,En bil parkeret på en gade,87128,0.2932,0.2932,0.2437
+223,Biler,Robustness,En bil parkeret på en gade,38864,0.3037,0.3037,0.2458
+224,Biler,Robustness,En bil parkeret på en gade,10942,0.2744,0.2744,0.2464
+225,Biler,Robustness,En bil parkeret på en gade,19305,0.2347,0.2347,0.1299
+226,Biler,Robustness,En bil parkeret på en gade,92719,0.2732,0.2732,0.1852
+227,Biler,Robustness,En bil parkeret på en gade,17716,0.2562,0.2562,0.2355
+228,Biler,Robustness,En bil parkeret på en gade,40007,0.2794,0.2794,0.2651
+229,Biler,Robustness,En bil parkeret på en gade,18834,0.2772,0.2772,0.1906
+230,Biler,Robustness,En bil parkeret på en gade,14117,0.2326,0.2326,0.2427
+231,Biler,Robustness,En bil parkeret på en gade,53309,0.2307,0.2307,0.275
+232,Biler,Robustness,En bil parkeret på en gade,19287,0.2432,0.2432,0.2551
+233,Biler,Robustness,En bil parkeret på en gade,77391,0.2526,0.2526,0.2171
+234,Biler,Robustness,En bil parkeret på en gade,41195,0.2605,0.2605,0.2764
+235,Biler,Robustness,En bil parkeret på en gade,46500,0.2318,0.2318,0.2527
+236,Biler,Robustness,En bil parkeret på en gade,97684,0.2762,0.2762,0.2558
+237,Biler,Robustness,En bil parkeret på en gade,73624,0.2396,0.2396,0.2425
+238,Biler,Robustness,En bil parkeret på en gade,38080,0.2901,0.2901,0.3054
+239,Biler,Robustness,En bil parkeret på en gade,80678,0.2697,0.2697,0.2607
+240,Biler,Robustness,En bil parkeret på en gade,27342,0.2417,0.2417,0.2437
+241,Biler,Robustness,En bil parkeret på en gade,84847,0.2109,0.2109,0.1935
+242,Biler,Robustness,En bil parkeret på en gade,85525,0.2086,0.2086,0.1437
+243,Biler,Robustness,En bil parkeret på en gade,71953,0.2454,0.2454,0.2337
+244,Biler,Robustness,En bil parkeret på en gade,41850,0.2545,0.2545,0.2467
+245,Biler,Robustness,En bil parkeret på en gade,71993,0.2159,0.2159,0.1929
+246,Biler,Robustness,En bil parkeret på en gade,63354,0.2025,0.2025,0.1949
+247,Biler,Robustness,En bil parkeret på en gade,34957,0.2236,0.2236,0.181
+248,Biler,Robustness,En bil parkeret på en gade,22363,0.2338,0.2338,0.2044
+249,Biler,Robustness,En bil parkeret på en gade,22704,0.2455,0.2455,0.258
+250,Biler,Robustness,En bil parkeret på en gade,96374,0.2363,0.2363,0.2354
+251,Biler,Bias,En bil parkeret på en gade,66498,,,
+252,Biler,Bias,En bil parkeret på en gade,56438,,,
+253,Biler,Bias,En bil parkeret på en gade,65519,,,
+254,Biler,Bias,En bil parkeret på en gade,63883,,,
+255,Biler,Bias,En bil parkeret på en gade,71213,,,
+256,Biler,Bias,En bil parkeret på en gade,17100,,,
+257,Biler,Bias,En bil parkeret på en gade,98259,,,
+258,Biler,Bias,En bil parkeret på en gade,95649,,,
+259,Biler,Bias,En bil parkeret på en gade,94696,,,
+260,Biler,Bias,En bil parkeret på en gade,22899,,,
+261,Biler,Bias,En bil parkeret på en gade,17944,,,
+262,Biler,Bias,En bil parkeret på en gade,62772,,,
+263,Biler,Bias,En bil parkeret på en gade,54473,,,
+264,Biler,Bias,En bil parkeret på en gade,24322,,,
+265,Biler,Bias,En bil parkeret på en gade,42591,,,
+266,Biler,Bias,En bil parkeret på en gade,35112,,,
+267,Biler,Bias,En bil parkeret på en gade,34931,,,
+268,Biler,Bias,En bil parkeret på en gade,80292,,,
+269,Biler,Bias,En bil parkeret på en gade,68800,,,
+270,Biler,Bias,En bil parkeret på en gade,28373,,,
+271,Biler,Bias,En bil parkeret på en gade,65296,,,
+272,Biler,Bias,En bil parkeret på en gade,34050,,,
+273,Biler,Bias,En bil parkeret på en gade,46509,,,
+274,Biler,Bias,En bil parkeret på en gade,70637,,,
+275,Biler,Bias,En bil parkeret på en gade,42742,,,
+276,Biler,Bias,En bil parkeret på en gade,19880,,,
+277,Biler,Bias,En bil parkeret på en gade,68082,,,
+278,Biler,Bias,En bil parkeret på en gade,82132,,,
+279,Biler,Bias,En bil parkeret på en gade,22833,,,
+280,Biler,Bias,En bil parkeret på en gade,16630,,,
+281,Biler,Bias,En bil parkeret på en gade,95477,,,
+282,Biler,Bias,En bil parkeret på en gade,80855,,,
+283,Biler,Bias,En bil parkeret på en gade,11934,,,
+284,Biler,Bias,En bil parkeret på en gade,22224,,,
+285,Biler,Bias,En bil parkeret på en gade,40982,,,
+286,Biler,Bias,En bil parkeret på en gade,31798,,,
+287,Biler,Bias,En bil parkeret på en gade,63269,,,
+288,Biler,Bias,En bil parkeret på en gade,73653,,,
+289,Biler,Bias,En bil parkeret på en gade,73092,,,
+290,Biler,Bias,En bil parkeret på en gade,38016,,,
+291,Biler,Bias,En bil parkeret på en gade,62565,,,
+292,Biler,Bias,En bil parkeret på en gade,17685,,,
+293,Biler,Bias,En bil parkeret på en gade,31579,,,
+294,Biler,Bias,En bil parkeret på en gade,59672,,,
+295,Biler,Bias,En bil parkeret på en gade,10282,,,
+296,Biler,Bias,En bil parkeret på en gade,61173,,,
+297,Biler,Bias,En bil parkeret på en gade,44760,,,
+298,Biler,Bias,En bil parkeret på en gade,69638,,,
+299,Biler,Bias,En bil parkeret på en gade,47388,,,
+300,Biler,Bias,En bil parkeret på en gade,65444,,,
+301,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,82845,0.2156,0.2156,0.2317
+302,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,96752,0.2032,0.2032,0.2305
+303,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,73788,0.2005,0.2005,0.2199
+304,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,30289,0.2187,0.2187,0.2231
+305,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,34890,0.2084,0.2084,0.2643
+306,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,48890,0.2175,0.2175,0.2288
+307,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,38534,0.2035,0.2035,0.2421
+308,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,17665,0.2168,0.2168,0.2515
+309,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,85914,0.2386,0.2386,0.187
+310,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,81066,0.1997,0.1997,0.2347
+311,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,17989,0.2546,0.2546,0.2614
+312,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,51104,0.2173,0.2173,0.2305
+313,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,17492,0.213,0.213,0.2456
+314,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,16572,0.2039,0.2039,0.2579
+315,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,86569,0.2135,0.2135,0.2484
+316,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,72493,0.2174,0.2174,0.2562
+317,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,75909,0.2036,0.2036,0.2513
+318,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,79615,0.2302,0.2302,0.2328
+319,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,30635,0.2322,0.2322,0.2765
+320,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,17455,0.2198,0.2198,0.2289
+321,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,76562,0.2282,0.2282,0.1987
+322,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,20500,0.2487,0.2487,0.2229
+323,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,34356,0.2034,0.2034,0.2547
+324,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,18981,0.219,0.219,0.2763
+325,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,87992,0.2539,0.2539,0.1766
+326,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,18907,0.2218,0.2218,0.2593
+327,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,98501,0.2129,0.2129,0.2185
+328,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,40828,0.2508,0.2508,0.2193
+329,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,62923,0.2376,0.2376,0.2148
+330,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,25713,0.2325,0.2325,0.2748
+331,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,84668,0.1978,0.1978,0.2446
+332,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,42271,0.2215,0.2215,0.2698
+333,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,85880,0.2225,0.2225,0.2628
+334,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,87924,0.2315,0.2315,0.2792
+335,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,15209,0.1916,0.1916,0.2035
+336,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,91183,0.2168,0.2168,0.2734
+337,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,20745,0.2232,0.2232,0.2166
+338,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,64948,0.2349,0.2349,0.2135
+339,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,96163,0.2191,0.2191,0.2213
+340,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,86503,0.2373,0.2373,0.1884
+341,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,84085,0.2153,0.2153,0.2513
+342,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,78522,0.2205,0.2205,0.2453
+343,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,51467,0.1992,0.1992,0.206
+344,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,44179,0.2232,0.2232,0.2332
+345,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,36772,0.204,0.204,0.201
+346,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,97782,0.2101,0.2101,0.2464
+347,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,51180,0.2204,0.2204,0.2255
+348,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,41285,0.2137,0.2137,0.2226
+349,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,44814,0.2311,0.2311,0.2418
+350,Tøj,Baseline_Accuracy,Et sæt tøj draperet over en stol,61876,0.2485,0.2485,0.2295
+351,Tøj,Robustness,Et sæt tøj draperet over en stol,27154,0.2328,0.2328,0.2504
+352,Tøj,Robustness,Et sæt tøj draperet over en stol,98039,0.1995,0.1995,0.2549
+353,Tøj,Robustness,Et sæt tøj draperet over en stol,94607,0.2237,0.2237,0.2533
+354,Tøj,Robustness,Et sæt tøj draperet over en stol,49321,0.2198,0.2198,0.2589
+355,Tøj,Robustness,Et sæt tøj draperet over en stol,69929,0.2227,0.2227,0.2677
+356,Tøj,Robustness,Et sæt tøj draperet over en stol,51441,0.248,0.248,0.2726
+357,Tøj,Robustness,Et sæt tøj draperet over en stol,19508,0.2229,0.2229,0.2256
+358,Tøj,Robustness,Et sæt tøj draperet over en stol,11220,0.2357,0.2357,0.2178
+359,Tøj,Robustness,Et sæt tøj draperet over en stol,70068,0.2485,0.2485,0.1317
+360,Tøj,Robustness,Et sæt tøj draperet over en stol,91416,0.2555,0.2555,0.2079
+361,Tøj,Robustness,Et sæt tøj draperet over en stol,83792,0.2334,0.2334,0.1496
+362,Tøj,Robustness,Et sæt tøj draperet over en stol,23104,0.2499,0.2499,0.1552
+363,Tøj,Robustness,Et sæt tøj draperet over en stol,19602,0.2281,0.2281,0.1481
+364,Tøj,Robustness,Et sæt tøj draperet over en stol,80468,0.2408,0.2408,0.2025
+365,Tøj,Robustness,Et sæt tøj draperet over en stol,37938,0.2327,0.2327,0.1616
+366,Tøj,Robustness,Et sæt tøj draperet over en stol,76307,0.2247,0.2247,0.117
+367,Tøj,Robustness,Et sæt tøj draperet over en stol,44760,0.2374,0.2374,0.1401
+368,Tøj,Robustness,Et sæt tøj draperet over en stol,27361,0.254,0.254,0.1689
+369,Tøj,Robustness,Et sæt tøj draperet over en stol,55745,0.2593,0.2593,0.1809
+370,Tøj,Robustness,Et sæt tøj draperet over en stol,19016,0.2767,0.2767,0.1308
+371,Tøj,Robustness,Et sæt tøj draperet over en stol,42018,0.1972,0.1972,0.2282
+372,Tøj,Robustness,Et sæt tøj draperet over en stol,58434,0.2245,0.2245,0.2647
+373,Tøj,Robustness,Et sæt tøj draperet over en stol,47353,0.1999,0.1999,0.2774
+374,Tøj,Robustness,Et sæt tøj draperet over en stol,30676,0.2254,0.2254,0.251
+375,Tøj,Robustness,Et sæt tøj draperet over en stol,67433,0.2313,0.2313,0.2852
+376,Tøj,Robustness,Et sæt tøj draperet over en stol,81200,0.2186,0.2186,0.2694
+377,Tøj,Robustness,Et sæt tøj draperet over en stol,49651,0.2365,0.2365,0.2764
+378,Tøj,Robustness,Et sæt tøj draperet over en stol,90173,0.1985,0.1985,0.2307
+379,Tøj,Robustness,Et sæt tøj draperet over en stol,95717,0.2238,0.2238,0.2738
+380,Tøj,Robustness,Et sæt tøj draperet over en stol,79329,0.1956,0.1956,0.2484
+381,Tøj,Robustness,Et sæt tøj draperet over en stol,11025,0.2564,0.2564,0.1488
+382,Tøj,Robustness,Et sæt tøj draperet over en stol,97538,0.2107,0.2107,0.2197
+383,Tøj,Robustness,Et sæt tøj draperet over en stol,82692,0.2657,0.2657,0.1986
+384,Tøj,Robustness,Et sæt tøj draperet over en stol,49240,0.2382,0.2382,0.2095
+385,Tøj,Robustness,Et sæt tøj draperet over en stol,96951,0.209,0.209,0.2125
+386,Tøj,Robustness,Et sæt tøj draperet over en stol,23577,0.2354,0.2354,0.2174
+387,Tøj,Robustness,Et sæt tøj draperet over en stol,27601,0.2338,0.2338,0.1931
+388,Tøj,Robustness,Et sæt tøj draperet over en stol,44664,0.21,0.21,0.1808
+389,Tøj,Robustness,Et sæt tøj draperet over en stol,25129,0.2492,0.2492,0.2253
+390,Tøj,Robustness,Et sæt tøj draperet over en stol,24029,0.2159,0.2159,0.2584
+391,Tøj,Robustness,Et sæt tøj draperet over en stol,82512,0.187,0.187,0.2504
+392,Tøj,Robustness,Et sæt tøj draperet over en stol,30374,0.2114,0.2114,0.2486
+393,Tøj,Robustness,Et sæt tøj draperet over en stol,45697,0.2159,0.2159,0.2261
+394,Tøj,Robustness,Et sæt tøj draperet over en stol,46930,0.1982,0.1982,0.2638
+395,Tøj,Robustness,Et sæt tøj draperet over en stol,89276,0.2126,0.2126,0.2247
+396,Tøj,Robustness,Et sæt tøj draperet over en stol,37607,0.1791,0.1791,0.2454
+397,Tøj,Robustness,Et sæt tøj draperet over en stol,54942,0.2295,0.2295,0.2421
+398,Tøj,Robustness,Et sæt tøj draperet over en stol,36685,0.2136,0.2136,0.2273
+399,Tøj,Robustness,Et sæt tøj draperet over en stol,93130,0.2125,0.2125,0.2134
+400,Tøj,Robustness,Et sæt tøj draperet over en stol,44600,0.2099,0.2099,0.2102
+401,Tøj,Bias,Et sæt tøj draperet over en stol,76244,,,
+402,Tøj,Bias,Et sæt tøj draperet over en stol,74032,,,
+403,Tøj,Bias,Et sæt tøj draperet over en stol,42914,,,
+404,Tøj,Bias,Et sæt tøj draperet over en stol,16658,,,
+405,Tøj,Bias,Et sæt tøj draperet over en stol,22097,,,
+406,Tøj,Bias,Et sæt tøj draperet over en stol,93136,,,
+407,Tøj,Bias,Et sæt tøj draperet over en stol,65518,,,
+408,Tøj,Bias,Et sæt tøj draperet over en stol,46265,,,
+409,Tøj,Bias,Et sæt tøj draperet over en stol,15778,,,
+410,Tøj,Bias,Et sæt tøj draperet over en stol,10464,,,
+411,Tøj,Bias,Et sæt tøj draperet over en stol,53719,,,
+412,Tøj,Bias,Et sæt tøj draperet over en stol,27146,,,
+413,Tøj,Bias,Et sæt tøj draperet over en stol,93507,,,
+414,Tøj,Bias,Et sæt tøj draperet over en stol,44335,,,
+415,Tøj,Bias,Et sæt tøj draperet over en stol,31178,,,
+416,Tøj,Bias,Et sæt tøj draperet over en stol,67912,,,
+417,Tøj,Bias,Et sæt tøj draperet over en stol,82309,,,
+418,Tøj,Bias,Et sæt tøj draperet over en stol,66057,,,
+419,Tøj,Bias,Et sæt tøj draperet over en stol,83519,,,
+420,Tøj,Bias,Et sæt tøj draperet over en stol,11267,,,
+421,Tøj,Bias,Et sæt tøj draperet over en stol,24663,,,
+422,Tøj,Bias,Et sæt tøj draperet over en stol,19862,,,
+423,Tøj,Bias,Et sæt tøj draperet over en stol,29536,,,
+424,Tøj,Bias,Et sæt tøj draperet over en stol,81511,,,
+425,Tøj,Bias,Et sæt tøj draperet over en stol,14722,,,
+426,Tøj,Bias,Et sæt tøj draperet over en stol,58393,,,
+427,Tøj,Bias,Et sæt tøj draperet over en stol,86350,,,
+428,Tøj,Bias,Et sæt tøj draperet over en stol,82420,,,
+429,Tøj,Bias,Et sæt tøj draperet over en stol,29410,,,
+430,Tøj,Bias,Et sæt tøj draperet over en stol,66333,,,
+431,Tøj,Bias,Et sæt tøj draperet over en stol,26704,,,
+432,Tøj,Bias,Et sæt tøj draperet over en stol,15482,,,
+433,Tøj,Bias,Et sæt tøj draperet over en stol,50404,,,
+434,Tøj,Bias,Et sæt tøj draperet over en stol,57795,,,
+435,Tøj,Bias,Et sæt tøj draperet over en stol,15229,,,
+436,Tøj,Bias,Et sæt tøj draperet over en stol,56898,,,
+437,Tøj,Bias,Et sæt tøj draperet over en stol,37535,,,
+438,Tøj,Bias,Et sæt tøj draperet over en stol,99399,,,
+439,Tøj,Bias,Et sæt tøj draperet over en stol,42706,,,
+440,Tøj,Bias,Et sæt tøj draperet over en stol,97416,,,
+441,Tøj,Bias,Et sæt tøj draperet over en stol,23473,,,
+442,Tøj,Bias,Et sæt tøj draperet over en stol,56357,,,
+443,Tøj,Bias,Et sæt tøj draperet over en stol,83385,,,
+444,Tøj,Bias,Et sæt tøj draperet over en stol,63264,,,
+445,Tøj,Bias,Et sæt tøj draperet over en stol,91351,,,
+446,Tøj,Bias,Et sæt tøj draperet over en stol,30257,,,
+447,Tøj,Bias,Et sæt tøj draperet over en stol,41029,,,
+448,Tøj,Bias,Et sæt tøj draperet over en stol,31299,,,
+449,Tøj,Bias,Et sæt tøj draperet over en stol,33206,,,
+450,Tøj,Bias,Et sæt tøj draperet over en stol,64040,,,
+451,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,13248,0.25,0.25,0.2956
+452,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,33509,0.237,0.237,0.2846
+453,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,53540,0.2725,0.2725,0.2346
+454,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,63964,0.2541,0.2541,0.2329
+455,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,97806,0.2571,0.2571,0.2858
+456,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,42527,0.2429,0.2429,0.2719
+457,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,44970,0.2577,0.2577,0.262
+458,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,30866,0.2389,0.2389,0.2959
+459,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,24168,0.2593,0.2593,0.2346
+460,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,60140,0.24,0.24,0.2405
+461,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,15075,0.2446,0.2446,0.2925
+462,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,71694,0.2408,0.2408,0.2937
+463,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,39154,0.2449,0.2449,0.2435
+464,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,36158,0.2552,0.2552,0.2788
+465,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,70332,0.2307,0.2307,0.2659
+466,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,55830,0.2543,0.2543,0.2932
+467,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,50001,0.249,0.249,0.2643
+468,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,39831,0.2676,0.2676,0.3059
+469,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,39219,0.2522,0.2522,0.274
+470,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,13101,0.2591,0.2591,0.2962
+471,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,96511,0.2551,0.2551,0.2595
+472,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,35313,0.258,0.258,0.2932
+473,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,62227,0.2432,0.2432,0.2905
+474,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,53025,0.2435,0.2435,0.2896
+475,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,46517,0.259,0.259,0.3007
+476,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,19099,0.2663,0.2663,0.2654
+477,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,46585,0.2485,0.2485,0.299
+478,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,56025,0.28,0.28,0.2405
+479,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,94080,0.2605,0.2605,0.3059
+480,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,76768,0.2618,0.2618,0.2896
+481,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,62386,0.2694,0.2694,0.2274
+482,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,99065,0.2529,0.2529,0.2534
+483,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,80282,0.2464,0.2464,0.2748
+484,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,53404,0.2513,0.2513,0.3024
+485,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,13617,0.2573,0.2573,0.2898
+486,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,25118,0.2422,0.2422,0.263
+487,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,44237,0.2473,0.2473,0.3049
+488,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,33405,0.2595,0.2595,0.2752
+489,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,86099,0.2577,0.2577,0.3045
+490,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,44795,0.2695,0.2695,0.2991
+491,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,15014,0.2559,0.2559,0.2439
+492,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,24208,0.2605,0.2605,0.2438
+493,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,88193,0.2639,0.2639,0.298
+494,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,66959,0.2691,0.2691,0.2855
+495,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,55309,0.2468,0.2468,0.3011
+496,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,51114,0.249,0.249,0.3006
+497,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,67199,0.2553,0.2553,0.2818
+498,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,89457,0.2557,0.2557,0.2429
+499,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,77033,0.2495,0.2495,0.269
+500,Skov,Baseline_Accuracy,Et landskabsbillede af en dyb skov,25157,0.2385,0.2385,0.2742
+501,Skov,Robustness,Et landskabsbillede af en dyb skov,60488,0.2449,0.2449,0.2839
+502,Skov,Robustness,Et landskabsbillede af en dyb skov,85574,0.2726,0.2726,0.2876
+503,Skov,Robustness,Et landskabsbillede af en dyb skov,34914,0.2494,0.2494,0.2914
+504,Skov,Robustness,Et landskabsbillede af en dyb skov,43386,0.246,0.246,0.2569
+505,Skov,Robustness,Et landskabsbillede af en dyb skov,15817,0.2483,0.2483,0.2958
+506,Skov,Robustness,Et landskabsbillede af en dyb skov,67154,0.2474,0.2474,0.306
+507,Skov,Robustness,Et landskabsbillede af en dyb skov,10221,0.2466,0.2466,0.2893
+508,Skov,Robustness,Et landskabsbillede af en dyb skov,78146,0.2527,0.2527,0.2926
+509,Skov,Robustness,Et landskabsbillede af en dyb skov,80575,0.2552,0.2552,0.2975
+510,Skov,Robustness,Et landskabsbillede af en dyb skov,97900,0.2585,0.2585,0.261
+511,Skov,Robustness,Et landskabsbillede af en dyb skov,35825,0.261,0.261,0.265
+512,Skov,Robustness,Et landskabsbillede af en dyb skov,57739,0.2715,0.2715,0.2662
+513,Skov,Robustness,Et landskabsbillede af en dyb skov,66531,0.2441,0.2441,0.3011
+514,Skov,Robustness,Et landskabsbillede af en dyb skov,19171,0.2326,0.2326,0.185
+515,Skov,Robustness,Et landskabsbillede af en dyb skov,97062,0.2461,0.2461,0.253
+516,Skov,Robustness,Et landskabsbillede af en dyb skov,53279,0.2462,0.2462,0.1912
+517,Skov,Robustness,Et landskabsbillede af en dyb skov,91678,0.2512,0.2512,0.2425
+518,Skov,Robustness,Et landskabsbillede af en dyb skov,51145,0.2551,0.2551,0.2217
+519,Skov,Robustness,Et landskabsbillede af en dyb skov,96951,0.2481,0.2481,0.1863
+520,Skov,Robustness,Et landskabsbillede af en dyb skov,26334,0.2569,0.2569,0.2886
+521,Skov,Robustness,Et landskabsbillede af en dyb skov,49363,0.246,0.246,0.1952
+522,Skov,Robustness,Et landskabsbillede af en dyb skov,76469,0.3203,0.3203,0.1886
+523,Skov,Robustness,Et landskabsbillede af en dyb skov,50538,0.2692,0.2692,0.178
+524,Skov,Robustness,Et landskabsbillede af en dyb skov,97410,0.2929,0.2929,0.1918
+525,Skov,Robustness,Et landskabsbillede af en dyb skov,63528,0.2748,0.2748,0.1934
+526,Skov,Robustness,Et landskabsbillede af en dyb skov,52753,0.2758,0.2758,0.108
+527,Skov,Robustness,Et landskabsbillede af en dyb skov,62743,0.2366,0.2366,0.0953
+528,Skov,Robustness,Et landskabsbillede af en dyb skov,48752,0.2734,0.2734,0.1909
+529,Skov,Robustness,Et landskabsbillede af en dyb skov,82667,0.2428,0.2428,0.156
+530,Skov,Robustness,Et landskabsbillede af en dyb skov,26683,0.2518,0.2518,0.1425
+531,Skov,Robustness,Et landskabsbillede af en dyb skov,35144,0.2482,0.2482,0.2519
+532,Skov,Robustness,Et landskabsbillede af en dyb skov,65108,0.2361,0.2361,0.2908
+533,Skov,Robustness,Et landskabsbillede af en dyb skov,97153,0.2483,0.2483,0.2444
+534,Skov,Robustness,Et landskabsbillede af en dyb skov,59695,0.2598,0.2598,0.2978
+535,Skov,Robustness,Et landskabsbillede af en dyb skov,98777,0.2614,0.2614,0.293
+536,Skov,Robustness,Et landskabsbillede af en dyb skov,32810,0.265,0.265,0.2914
+537,Skov,Robustness,Et landskabsbillede af en dyb skov,90676,0.2436,0.2436,0.2779
+538,Skov,Robustness,Et landskabsbillede af en dyb skov,84593,0.2472,0.2472,0.2862
+539,Skov,Robustness,Et landskabsbillede af en dyb skov,49446,0.2479,0.2479,0.2875
+540,Skov,Robustness,Et landskabsbillede af en dyb skov,63225,0.2455,0.2455,0.2241
+541,Skov,Robustness,Et landskabsbillede af en dyb skov,81819,0.2695,0.2695,0.2989
+542,Skov,Robustness,Et landskabsbillede af en dyb skov,10053,0.2495,0.2495,0.3008
+543,Skov,Robustness,Et landskabsbillede af en dyb skov,49829,0.2493,0.2493,0.3127
+544,Skov,Robustness,Et landskabsbillede af en dyb skov,47606,0.272,0.272,0.3129
+545,Skov,Robustness,Et landskabsbillede af en dyb skov,37549,0.2544,0.2544,0.2958
+546,Skov,Robustness,Et landskabsbillede af en dyb skov,66346,0.2454,0.2454,0.2943
+547,Skov,Robustness,Et landskabsbillede af en dyb skov,86019,0.2457,0.2457,0.2837
+548,Skov,Robustness,Et landskabsbillede af en dyb skov,89516,0.2628,0.2628,0.3057
+549,Skov,Robustness,Et landskabsbillede af en dyb skov,95813,0.2556,0.2556,0.3076
+550,Skov,Robustness,Et landskabsbillede af en dyb skov,52237,0.2532,0.2532,0.2859
+551,Skov,Bias,Et landskabsbillede af en dyb skov,70946,,,
+552,Skov,Bias,Et landskabsbillede af en dyb skov,67905,,,
+553,Skov,Bias,Et landskabsbillede af en dyb skov,67954,,,
+554,Skov,Bias,Et landskabsbillede af en dyb skov,98555,,,
+555,Skov,Bias,Et landskabsbillede af en dyb skov,38010,,,
+556,Skov,Bias,Et landskabsbillede af en dyb skov,77000,,,
+557,Skov,Bias,Et landskabsbillede af en dyb skov,72021,,,
+558,Skov,Bias,Et landskabsbillede af en dyb skov,32241,,,
+559,Skov,Bias,Et landskabsbillede af en dyb skov,96356,,,
+560,Skov,Bias,Et landskabsbillede af en dyb skov,21114,,,
+561,Skov,Bias,Et landskabsbillede af en dyb skov,47196,,,
+562,Skov,Bias,Et landskabsbillede af en dyb skov,77561,,,
+563,Skov,Bias,Et landskabsbillede af en dyb skov,97012,,,
+564,Skov,Bias,Et landskabsbillede af en dyb skov,92960,,,
+565,Skov,Bias,Et landskabsbillede af en dyb skov,91167,,,
+566,Skov,Bias,Et landskabsbillede af en dyb skov,53933,,,
+567,Skov,Bias,Et landskabsbillede af en dyb skov,22240,,,
+568,Skov,Bias,Et landskabsbillede af en dyb skov,40784,,,
+569,Skov,Bias,Et landskabsbillede af en dyb skov,98184,,,
+570,Skov,Bias,Et landskabsbillede af en dyb skov,50687,,,
+571,Skov,Bias,Et landskabsbillede af en dyb skov,39444,,,
+572,Skov,Bias,Et landskabsbillede af en dyb skov,36100,,,
+573,Skov,Bias,Et landskabsbillede af en dyb skov,29313,,,
+574,Skov,Bias,Et landskabsbillede af en dyb skov,13201,,,
+575,Skov,Bias,Et landskabsbillede af en dyb skov,16057,,,
+576,Skov,Bias,Et landskabsbillede af en dyb skov,42092,,,
+577,Skov,Bias,Et landskabsbillede af en dyb skov,72277,,,
+578,Skov,Bias,Et landskabsbillede af en dyb skov,90120,,,
+579,Skov,Bias,Et landskabsbillede af en dyb skov,19545,,,
+580,Skov,Bias,Et landskabsbillede af en dyb skov,69692,,,
+581,Skov,Bias,Et landskabsbillede af en dyb skov,64321,,,
+582,Skov,Bias,Et landskabsbillede af en dyb skov,92544,,,
+583,Skov,Bias,Et landskabsbillede af en dyb skov,85454,,,
+584,Skov,Bias,Et landskabsbillede af en dyb skov,35485,,,
+585,Skov,Bias,Et landskabsbillede af en dyb skov,60328,,,
+586,Skov,Bias,Et landskabsbillede af en dyb skov,74799,,,
+587,Skov,Bias,Et landskabsbillede af en dyb skov,62383,,,
+588,Skov,Bias,Et landskabsbillede af en dyb skov,41979,,,
+589,Skov,Bias,Et landskabsbillede af en dyb skov,29342,,,
+590,Skov,Bias,Et landskabsbillede af en dyb skov,95990,,,
+591,Skov,Bias,Et landskabsbillede af en dyb skov,10726,,,
+592,Skov,Bias,Et landskabsbillede af en dyb skov,23970,,,
+593,Skov,Bias,Et landskabsbillede af en dyb skov,65724,,,
+594,Skov,Bias,Et landskabsbillede af en dyb skov,38683,,,
+595,Skov,Bias,Et landskabsbillede af en dyb skov,33053,,,
+596,Skov,Bias,Et landskabsbillede af en dyb skov,77889,,,
+597,Skov,Bias,Et landskabsbillede af en dyb skov,70889,,,
+598,Skov,Bias,Et landskabsbillede af en dyb skov,16582,,,
+599,Skov,Bias,Et landskabsbillede af en dyb skov,83060,,,
+600,Skov,Bias,Et landskabsbillede af en dyb skov,42662,,,

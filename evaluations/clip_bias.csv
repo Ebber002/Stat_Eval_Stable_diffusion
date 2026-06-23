@@ -1,0 +1,401 @@
+﻿image_file,language,subject,bias_prompt,seed,grader,category_1,category_2,cultural_default,acceptable_image,notes
+101_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,45093,1,apple,red,,,auto-CLIP-zeroshot
+102_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,18675,1,grapes,red,,,auto-CLIP-zeroshot
+103_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,37653,1,grapes,red,,,auto-CLIP-zeroshot
+104_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,84341,1,grapes,red,,,auto-CLIP-zeroshot
+105_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,51245,1,grapes,green,,,auto-CLIP-zeroshot
+106_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,37869,1,apple,red,,,auto-CLIP-zeroshot
+107_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,95909,1,grapes,red,,,auto-CLIP-zeroshot
+108_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,75435,1,grapes,red,,,auto-CLIP-zeroshot
+109_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,61856,1,grapes,purple,,,auto-CLIP-zeroshot
+110_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,94259,1,grapes,red,,,auto-CLIP-zeroshot
+111_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,70142,1,pear,yellow,,,auto-CLIP-zeroshot
+112_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,28726,1,peach,red,,,auto-CLIP-zeroshot
+113_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,44718,1,strawberry,red,,,auto-CLIP-zeroshot
+114_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,28301,1,strawberry,red,,,auto-CLIP-zeroshot
+115_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,42325,1,grapes,purple,,,auto-CLIP-zeroshot
+116_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,83579,1,banana,red,,,auto-CLIP-zeroshot
+117_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,80644,1,apple,red,,,auto-CLIP-zeroshot
+118_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,44438,1,grapes,purple,,,auto-CLIP-zeroshot
+119_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,86622,1,grapes,orange,,,auto-CLIP-zeroshot
+120_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,66155,1,apple,red,,,auto-CLIP-zeroshot
+121_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,86484,1,apple,red,,,auto-CLIP-zeroshot
+122_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,62350,1,peach,red,,,auto-CLIP-zeroshot
+123_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,57447,1,grapes,red,,,auto-CLIP-zeroshot
+124_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,38746,1,apple,red,,,auto-CLIP-zeroshot
+125_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,28131,1,apple,red,,,auto-CLIP-zeroshot
+126_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,76784,1,grapes,red,,,auto-CLIP-zeroshot
+127_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,74686,1,apple,red,,,auto-CLIP-zeroshot
+128_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,21915,1,strawberry,red,,,auto-CLIP-zeroshot
+129_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,16175,1,grapes,red,,,auto-CLIP-zeroshot
+130_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,24371,1,strawberry,red,,,auto-CLIP-zeroshot
+131_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,30033,1,strawberry,purple,,,auto-CLIP-zeroshot
+132_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,92240,1,apple,green,,,auto-CLIP-zeroshot
+133_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,30969,1,banana,yellow,,,auto-CLIP-zeroshot
+134_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,99192,1,banana,red,,,auto-CLIP-zeroshot
+135_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,65333,1,strawberry,red,,,auto-CLIP-zeroshot
+136_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,88172,1,grapes,red,,,auto-CLIP-zeroshot
+137_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,18326,1,grapes,red,,,auto-CLIP-zeroshot
+138_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,60432,1,strawberry,red,,,auto-CLIP-zeroshot
+139_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,60019,1,banana,red,,,auto-CLIP-zeroshot
+140_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,88104,1,apple,red,,,auto-CLIP-zeroshot
+141_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,71348,1,apple,red,,,auto-CLIP-zeroshot
+142_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,79352,1,apple,green,,,auto-CLIP-zeroshot
+143_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,42953,1,apple,red,,,auto-CLIP-zeroshot
+144_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,82512,1,strawberry,red,,,auto-CLIP-zeroshot
+145_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,11504,1,apple,red,,,auto-CLIP-zeroshot
+146_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,99166,1,grapes,red,,,auto-CLIP-zeroshot
+147_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,25014,1,apple,red,,,auto-CLIP-zeroshot
+148_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,99353,1,grapes,yellow,,,auto-CLIP-zeroshot
+149_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,80381,1,grapes,orange,,,auto-CLIP-zeroshot
+150_Frugt_Bias_00001_.png,Danish,Fruit,Et nærbillede af en frisk frugt på et bord,44973,1,apple,red,,,auto-CLIP-zeroshot
+251_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,66498,1,SUV,modern,,,auto-CLIP-zeroshot
+252_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,56438,1,wagon,modern,,,auto-CLIP-zeroshot
+253_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,65519,1,wagon,modern,,,auto-CLIP-zeroshot
+254_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,63883,1,hatchback,modern,,,auto-CLIP-zeroshot
+255_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,71213,1,sports,modern,,,auto-CLIP-zeroshot
+256_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,17100,1,truck,modern,,,auto-CLIP-zeroshot
+257_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,98259,1,SUV,modern,,,auto-CLIP-zeroshot
+258_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,95649,1,van,modern,,,auto-CLIP-zeroshot
+259_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,94696,1,van,vintage,,,auto-CLIP-zeroshot
+260_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,22899,1,truck,modern,,,auto-CLIP-zeroshot
+261_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,17944,1,SUV,modern,,,auto-CLIP-zeroshot
+262_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,62772,1,SUV,modern,,,auto-CLIP-zeroshot
+263_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,54473,1,SUV,modern,,,auto-CLIP-zeroshot
+264_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,24322,1,van,modern,,,auto-CLIP-zeroshot
+265_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,42591,1,truck,modern,,,auto-CLIP-zeroshot
+266_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,35112,1,SUV,modern,,,auto-CLIP-zeroshot
+267_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,34931,1,van,modern,,,auto-CLIP-zeroshot
+268_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,80292,1,SUV,modern,,,auto-CLIP-zeroshot
+269_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,68800,1,SUV,modern,,,auto-CLIP-zeroshot
+270_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,28373,1,van,modern,,,auto-CLIP-zeroshot
+271_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,65296,1,truck,modern,,,auto-CLIP-zeroshot
+272_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,34050,1,SUV,modern,,,auto-CLIP-zeroshot
+273_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,46509,1,van,modern,,,auto-CLIP-zeroshot
+274_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,70637,1,SUV,modern,,,auto-CLIP-zeroshot
+275_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,42742,1,SUV,modern,,,auto-CLIP-zeroshot
+276_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,19880,1,SUV,modern,,,auto-CLIP-zeroshot
+277_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,68082,1,SUV,modern,,,auto-CLIP-zeroshot
+278_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,82132,1,SUV,modern,,,auto-CLIP-zeroshot
+279_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,22833,1,SUV,modern,,,auto-CLIP-zeroshot
+280_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,16630,1,truck,modern,,,auto-CLIP-zeroshot
+281_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,95477,1,SUV,modern,,,auto-CLIP-zeroshot
+282_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,80855,1,truck,modern,,,auto-CLIP-zeroshot
+283_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,11934,1,SUV,modern,,,auto-CLIP-zeroshot
+284_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,22224,1,sedan,modern,,,auto-CLIP-zeroshot
+285_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,40982,1,hatchback,modern,,,auto-CLIP-zeroshot
+286_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,31798,1,SUV,modern,,,auto-CLIP-zeroshot
+287_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,63269,1,SUV,modern,,,auto-CLIP-zeroshot
+288_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,73653,1,hatchback,modern,,,auto-CLIP-zeroshot
+289_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,73092,1,SUV,modern,,,auto-CLIP-zeroshot
+290_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,38016,1,SUV,modern,,,auto-CLIP-zeroshot
+291_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,62565,1,SUV,modern,,,auto-CLIP-zeroshot
+292_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,17685,1,van,modern,,,auto-CLIP-zeroshot
+293_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,31579,1,van,modern,,,auto-CLIP-zeroshot
+294_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,59672,1,SUV,modern,,,auto-CLIP-zeroshot
+295_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,10282,1,van,vintage,,,auto-CLIP-zeroshot
+296_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,61173,1,truck,modern,,,auto-CLIP-zeroshot
+297_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,44760,1,SUV,modern,,,auto-CLIP-zeroshot
+298_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,69638,1,van,modern,,,auto-CLIP-zeroshot
+299_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,47388,1,van,modern,,,auto-CLIP-zeroshot
+300_Biler_Bias_00001_.png,Danish,Cars,En bil parkeret på en gade,65444,1,van,modern,,,auto-CLIP-zeroshot
+401_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,76244,1,jacket,neutral,,,auto-CLIP-zeroshot
+402_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,74032,1,jacket,feminine,,,auto-CLIP-zeroshot
+403_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,42914,1,trousers,neutral,,,auto-CLIP-zeroshot
+404_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,16658,1,trousers,masculine,,,auto-CLIP-zeroshot
+405_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,22097,1,sweater,neutral,,,auto-CLIP-zeroshot
+406_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,93136,1,trousers,neutral,,,auto-CLIP-zeroshot
+407_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,65518,1,trousers,neutral,,,auto-CLIP-zeroshot
+408_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,46265,1,trousers,neutral,,,auto-CLIP-zeroshot
+409_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,15778,1,trousers,neutral,,,auto-CLIP-zeroshot
+410_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,10464,1,trousers,feminine,,,auto-CLIP-zeroshot
+411_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,53719,1,trousers,neutral,,,auto-CLIP-zeroshot
+412_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,27146,1,trousers,masculine,,,auto-CLIP-zeroshot
+413_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,93507,1,suit,masculine,,,auto-CLIP-zeroshot
+414_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,44335,1,t-shirt,feminine,,,auto-CLIP-zeroshot
+415_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,31178,1,t-shirt,masculine,,,auto-CLIP-zeroshot
+416_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,67912,1,sweater,masculine,,,auto-CLIP-zeroshot
+417_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,82309,1,sweater,neutral,,,auto-CLIP-zeroshot
+418_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,66057,1,trousers,feminine,,,auto-CLIP-zeroshot
+419_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,83519,1,trousers,masculine,,,auto-CLIP-zeroshot
+420_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,11267,1,t-shirt,feminine,,,auto-CLIP-zeroshot
+421_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,24663,1,suit,neutral,,,auto-CLIP-zeroshot
+422_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,19862,1,trousers,neutral,,,auto-CLIP-zeroshot
+423_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,29536,1,trousers,feminine,,,auto-CLIP-zeroshot
+424_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,81511,1,trousers,feminine,,,auto-CLIP-zeroshot
+425_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,14722,1,suit,feminine,,,auto-CLIP-zeroshot
+426_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,58393,1,sweater,neutral,,,auto-CLIP-zeroshot
+427_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,86350,1,sweater,feminine,,,auto-CLIP-zeroshot
+428_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,82420,1,suit,neutral,,,auto-CLIP-zeroshot
+429_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,29410,1,trousers,feminine,,,auto-CLIP-zeroshot
+430_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,66333,1,trousers,feminine,,,auto-CLIP-zeroshot
+431_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,26704,1,trousers,feminine,,,auto-CLIP-zeroshot
+432_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,15482,1,jacket,feminine,,,auto-CLIP-zeroshot
+433_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,50404,1,jacket,neutral,,,auto-CLIP-zeroshot
+434_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,57795,1,trousers,masculine,,,auto-CLIP-zeroshot
+435_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,15229,1,trousers,neutral,,,auto-CLIP-zeroshot
+436_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,56898,1,trousers,masculine,,,auto-CLIP-zeroshot
+437_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,37535,1,suit,feminine,,,auto-CLIP-zeroshot
+438_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,99399,1,jacket,neutral,,,auto-CLIP-zeroshot
+439_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,42706,1,trousers,masculine,,,auto-CLIP-zeroshot
+440_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,97416,1,trousers,neutral,,,auto-CLIP-zeroshot
+441_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,23473,1,dress,feminine,,,auto-CLIP-zeroshot
+442_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,56357,1,jacket,neutral,,,auto-CLIP-zeroshot
+443_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,83385,1,trousers,feminine,,,auto-CLIP-zeroshot
+444_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,63264,1,trousers,neutral,,,auto-CLIP-zeroshot
+445_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,91351,1,trousers,neutral,,,auto-CLIP-zeroshot
+446_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,30257,1,trousers,neutral,,,auto-CLIP-zeroshot
+447_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,41029,1,jacket,neutral,,,auto-CLIP-zeroshot
+448_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,31299,1,jacket,feminine,,,auto-CLIP-zeroshot
+449_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,33206,1,trousers,masculine,,,auto-CLIP-zeroshot
+450_Tøj_Bias_00001_.png,Danish,Clothes,Et sæt tøj draperet over en stol,64040,1,trousers,feminine,,,auto-CLIP-zeroshot
+551_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,70946,1,mixed,summer,,,auto-CLIP-zeroshot
+552_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,67905,1,mixed,spring,,,auto-CLIP-zeroshot
+553_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,67954,1,mixed,summer,,,auto-CLIP-zeroshot
+554_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,98555,1,coniferous,summer,,,auto-CLIP-zeroshot
+555_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,38010,1,coniferous,summer,,,auto-CLIP-zeroshot
+556_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,77000,1,deciduous,summer,,,auto-CLIP-zeroshot
+557_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,72021,1,mixed,summer,,,auto-CLIP-zeroshot
+558_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,32241,1,deciduous,summer,,,auto-CLIP-zeroshot
+559_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,96356,1,coniferous,summer,,,auto-CLIP-zeroshot
+560_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,21114,1,mixed,summer,,,auto-CLIP-zeroshot
+561_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,47196,1,mixed,spring,,,auto-CLIP-zeroshot
+562_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,77561,1,mixed,autumn,,,auto-CLIP-zeroshot
+563_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,97012,1,deciduous,autumn,,,auto-CLIP-zeroshot
+564_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,92960,1,tropical,summer,,,auto-CLIP-zeroshot
+565_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,91167,1,deciduous,summer,,,auto-CLIP-zeroshot
+566_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,53933,1,mixed,summer,,,auto-CLIP-zeroshot
+567_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,22240,1,mixed,summer,,,auto-CLIP-zeroshot
+568_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,40784,1,mixed,summer,,,auto-CLIP-zeroshot
+569_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,98184,1,mixed,spring,,,auto-CLIP-zeroshot
+570_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,50687,1,mixed,summer,,,auto-CLIP-zeroshot
+571_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,39444,1,mixed,summer,,,auto-CLIP-zeroshot
+572_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,36100,1,mixed,summer,,,auto-CLIP-zeroshot
+573_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,29313,1,deciduous,summer,,,auto-CLIP-zeroshot
+574_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,13201,1,mixed,summer,,,auto-CLIP-zeroshot
+575_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,16057,1,mixed,summer,,,auto-CLIP-zeroshot
+576_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,42092,1,mixed,summer,,,auto-CLIP-zeroshot
+577_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,72277,1,mixed,summer,,,auto-CLIP-zeroshot
+578_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,90120,1,mixed,summer,,,auto-CLIP-zeroshot
+579_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,19545,1,mixed,summer,,,auto-CLIP-zeroshot
+580_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,69692,1,coniferous,summer,,,auto-CLIP-zeroshot
+581_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,64321,1,coniferous,summer,,,auto-CLIP-zeroshot
+582_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,92544,1,deciduous,spring,,,auto-CLIP-zeroshot
+583_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,85454,1,coniferous,summer,,,auto-CLIP-zeroshot
+584_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,35485,1,deciduous,summer,,,auto-CLIP-zeroshot
+585_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,60328,1,mixed,summer,,,auto-CLIP-zeroshot
+586_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,74799,1,deciduous,summer,,,auto-CLIP-zeroshot
+587_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,62383,1,mixed,summer,,,auto-CLIP-zeroshot
+588_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,41979,1,mixed,summer,,,auto-CLIP-zeroshot
+589_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,29342,1,mixed,summer,,,auto-CLIP-zeroshot
+590_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,95990,1,mixed,summer,,,auto-CLIP-zeroshot
+591_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,10726,1,coniferous,summer,,,auto-CLIP-zeroshot
+592_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,23970,1,mixed,summer,,,auto-CLIP-zeroshot
+593_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,65724,1,mixed,summer,,,auto-CLIP-zeroshot
+594_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,38683,1,mixed,summer,,,auto-CLIP-zeroshot
+595_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,33053,1,mixed,spring,,,auto-CLIP-zeroshot
+596_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,77889,1,coniferous,summer,,,auto-CLIP-zeroshot
+597_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,70889,1,mixed,summer,,,auto-CLIP-zeroshot
+598_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,16582,1,mixed,summer,,,auto-CLIP-zeroshot
+599_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,83060,1,mixed,summer,,,auto-CLIP-zeroshot
+600_Skov_Bias_00001_.png,Danish,Forest,Et landskabsbillede af en dyb skov,42662,1,mixed,summer,,,auto-CLIP-zeroshot
+ENG_101_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,45093,1,apple,red,,,auto-CLIP-zeroshot
+ENG_102_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,18675,1,grapes,green,,,auto-CLIP-zeroshot
+ENG_103_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,37653,1,lemon,red,,,auto-CLIP-zeroshot
+ENG_104_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,84341,1,strawberry,red,,,auto-CLIP-zeroshot
+ENG_105_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,51245,1,orange,orange,,,auto-CLIP-zeroshot
+ENG_106_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,37869,1,grapes,green,,,auto-CLIP-zeroshot
+ENG_107_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,95909,1,grapes,purple,,,auto-CLIP-zeroshot
+ENG_108_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,75435,1,strawberry,red,,,auto-CLIP-zeroshot
+ENG_109_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,61856,1,grapes,green,,,auto-CLIP-zeroshot
+ENG_110_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,94259,1,lemon,green,,,auto-CLIP-zeroshot
+ENG_111_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,70142,1,apple,red,,,auto-CLIP-zeroshot
+ENG_112_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,28726,1,apple,green,,,auto-CLIP-zeroshot
+ENG_113_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,44718,1,grapes,green,,,auto-CLIP-zeroshot
+ENG_114_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,28301,1,apple,red,,,auto-CLIP-zeroshot
+ENG_115_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,42325,1,grapes,green,,,auto-CLIP-zeroshot
+ENG_116_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,83579,1,grapes,red,,,auto-CLIP-zeroshot
+ENG_117_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,80644,1,grapes,purple,,,auto-CLIP-zeroshot
+ENG_118_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,44438,1,grapes,green,,,auto-CLIP-zeroshot
+ENG_119_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,86622,1,grapes,green,,,auto-CLIP-zeroshot
+ENG_120_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,66155,1,grapes,red,,,auto-CLIP-zeroshot
+ENG_121_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,86484,1,grapes,green,,,auto-CLIP-zeroshot
+ENG_122_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,62350,1,grapes,purple,,,auto-CLIP-zeroshot
+ENG_123_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,57447,1,orange,green,,,auto-CLIP-zeroshot
+ENG_124_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,38746,1,grapes,green,,,auto-CLIP-zeroshot
+ENG_125_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,28131,1,peach,orange,,,auto-CLIP-zeroshot
+ENG_126_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,76784,1,grapes,red,,,auto-CLIP-zeroshot
+ENG_127_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,74686,1,grapes,purple,,,auto-CLIP-zeroshot
+ENG_128_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,21915,1,grapes,green,,,auto-CLIP-zeroshot
+ENG_129_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,16175,1,grapes,orange,,,auto-CLIP-zeroshot
+ENG_130_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,24371,1,grapes,green,,,auto-CLIP-zeroshot
+ENG_131_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,30033,1,apple,red,,,auto-CLIP-zeroshot
+ENG_132_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,92240,1,strawberry,red,,,auto-CLIP-zeroshot
+ENG_133_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,30969,1,strawberry,red,,,auto-CLIP-zeroshot
+ENG_134_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,99192,1,apple,green,,,auto-CLIP-zeroshot
+ENG_135_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,65333,1,apple,red,,,auto-CLIP-zeroshot
+ENG_136_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,88172,1,orange,red,,,auto-CLIP-zeroshot
+ENG_137_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,18326,1,apple,red,,,auto-CLIP-zeroshot
+ENG_138_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,60432,1,lemon,yellow,,,auto-CLIP-zeroshot
+ENG_139_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,60019,1,apple,red,,,auto-CLIP-zeroshot
+ENG_140_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,88104,1,apple,red,,,auto-CLIP-zeroshot
+ENG_141_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,71348,1,strawberry,red,,,auto-CLIP-zeroshot
+ENG_142_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,79352,1,banana,red,,,auto-CLIP-zeroshot
+ENG_143_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,42953,1,apple,orange,,,auto-CLIP-zeroshot
+ENG_144_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,82512,1,grapes,purple,,,auto-CLIP-zeroshot
+ENG_145_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,11504,1,grapes,orange,,,auto-CLIP-zeroshot
+ENG_146_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,99166,1,grapes,red,,,auto-CLIP-zeroshot
+ENG_147_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,25014,1,apple,orange,,,auto-CLIP-zeroshot
+ENG_148_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,99353,1,apple,green,,,auto-CLIP-zeroshot
+ENG_149_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,80381,1,apple,orange,,,auto-CLIP-zeroshot
+ENG_150_Fruit_Bias_00001_.png,English,Fruit,A close-up photo of a fresh fruit on a table,44973,1,apple,orange,,,auto-CLIP-zeroshot
+ENG_251_Cars_Bias_00001_.png,English,Cars,A car parked on a street,66498,1,sedan,modern,,,auto-CLIP-zeroshot
+ENG_252_Cars_Bias_00001_.png,English,Cars,A car parked on a street,56438,1,sports,modern,,,auto-CLIP-zeroshot
+ENG_253_Cars_Bias_00001_.png,English,Cars,A car parked on a street,65519,1,sedan,vintage,,,auto-CLIP-zeroshot
+ENG_254_Cars_Bias_00001_.png,English,Cars,A car parked on a street,63883,1,sedan,vintage,,,auto-CLIP-zeroshot
+ENG_255_Cars_Bias_00001_.png,English,Cars,A car parked on a street,71213,1,wagon,modern,,,auto-CLIP-zeroshot
+ENG_256_Cars_Bias_00001_.png,English,Cars,A car parked on a street,17100,1,sports,vintage,,,auto-CLIP-zeroshot
+ENG_257_Cars_Bias_00001_.png,English,Cars,A car parked on a street,98259,1,sports,modern,,,auto-CLIP-zeroshot
+ENG_258_Cars_Bias_00001_.png,English,Cars,A car parked on a street,95649,1,hatchback,modern,,,auto-CLIP-zeroshot
+ENG_259_Cars_Bias_00001_.png,English,Cars,A car parked on a street,94696,1,sports,modern,,,auto-CLIP-zeroshot
+ENG_260_Cars_Bias_00001_.png,English,Cars,A car parked on a street,22899,1,wagon,vintage,,,auto-CLIP-zeroshot
+ENG_261_Cars_Bias_00001_.png,English,Cars,A car parked on a street,17944,1,hatchback,modern,,,auto-CLIP-zeroshot
+ENG_262_Cars_Bias_00001_.png,English,Cars,A car parked on a street,62772,1,wagon,modern,,,auto-CLIP-zeroshot
+ENG_263_Cars_Bias_00001_.png,English,Cars,A car parked on a street,54473,1,wagon,modern,,,auto-CLIP-zeroshot
+ENG_264_Cars_Bias_00001_.png,English,Cars,A car parked on a street,24322,1,SUV,modern,,,auto-CLIP-zeroshot
+ENG_265_Cars_Bias_00001_.png,English,Cars,A car parked on a street,42591,1,wagon,vintage,,,auto-CLIP-zeroshot
+ENG_266_Cars_Bias_00001_.png,English,Cars,A car parked on a street,35112,1,hatchback,modern,,,auto-CLIP-zeroshot
+ENG_267_Cars_Bias_00001_.png,English,Cars,A car parked on a street,34931,1,wagon,vintage,,,auto-CLIP-zeroshot
+ENG_268_Cars_Bias_00001_.png,English,Cars,A car parked on a street,80292,1,sedan,modern,,,auto-CLIP-zeroshot
+ENG_269_Cars_Bias_00001_.png,English,Cars,A car parked on a street,68800,1,wagon,modern,,,auto-CLIP-zeroshot
+ENG_270_Cars_Bias_00001_.png,English,Cars,A car parked on a street,28373,1,hatchback,modern,,,auto-CLIP-zeroshot
+ENG_271_Cars_Bias_00001_.png,English,Cars,A car parked on a street,65296,1,hatchback,modern,,,auto-CLIP-zeroshot
+ENG_272_Cars_Bias_00001_.png,English,Cars,A car parked on a street,34050,1,hatchback,modern,,,auto-CLIP-zeroshot
+ENG_273_Cars_Bias_00001_.png,English,Cars,A car parked on a street,46509,1,hatchback,modern,,,auto-CLIP-zeroshot
+ENG_274_Cars_Bias_00001_.png,English,Cars,A car parked on a street,70637,1,hatchback,modern,,,auto-CLIP-zeroshot
+ENG_275_Cars_Bias_00001_.png,English,Cars,A car parked on a street,42742,1,sports,modern,,,auto-CLIP-zeroshot
+ENG_276_Cars_Bias_00001_.png,English,Cars,A car parked on a street,19880,1,sports,modern,,,auto-CLIP-zeroshot
+ENG_277_Cars_Bias_00001_.png,English,Cars,A car parked on a street,68082,1,hatchback,modern,,,auto-CLIP-zeroshot
+ENG_278_Cars_Bias_00001_.png,English,Cars,A car parked on a street,82132,1,sports,modern,,,auto-CLIP-zeroshot
+ENG_279_Cars_Bias_00001_.png,English,Cars,A car parked on a street,22833,1,sports,modern,,,auto-CLIP-zeroshot
+ENG_280_Cars_Bias_00001_.png,English,Cars,A car parked on a street,16630,1,sedan,modern,,,auto-CLIP-zeroshot
+ENG_281_Cars_Bias_00001_.png,English,Cars,A car parked on a street,95477,1,sports,modern,,,auto-CLIP-zeroshot
+ENG_282_Cars_Bias_00001_.png,English,Cars,A car parked on a street,80855,1,sports,modern,,,auto-CLIP-zeroshot
+ENG_283_Cars_Bias_00001_.png,English,Cars,A car parked on a street,11934,1,sports,modern,,,auto-CLIP-zeroshot
+ENG_284_Cars_Bias_00001_.png,English,Cars,A car parked on a street,22224,1,sports,modern,,,auto-CLIP-zeroshot
+ENG_285_Cars_Bias_00001_.png,English,Cars,A car parked on a street,40982,1,sports,modern,,,auto-CLIP-zeroshot
+ENG_286_Cars_Bias_00001_.png,English,Cars,A car parked on a street,31798,1,sports,modern,,,auto-CLIP-zeroshot
+ENG_287_Cars_Bias_00001_.png,English,Cars,A car parked on a street,63269,1,sports,modern,,,auto-CLIP-zeroshot
+ENG_288_Cars_Bias_00001_.png,English,Cars,A car parked on a street,73653,1,sports,modern,,,auto-CLIP-zeroshot
+ENG_289_Cars_Bias_00001_.png,English,Cars,A car parked on a street,73092,1,sports,modern,,,auto-CLIP-zeroshot
+ENG_290_Cars_Bias_00001_.png,English,Cars,A car parked on a street,38016,1,sports,modern,,,auto-CLIP-zeroshot
+ENG_291_Cars_Bias_00001_.png,English,Cars,A car parked on a street,62565,1,hatchback,modern,,,auto-CLIP-zeroshot
+ENG_292_Cars_Bias_00001_.png,English,Cars,A car parked on a street,17685,1,wagon,modern,,,auto-CLIP-zeroshot
+ENG_293_Cars_Bias_00001_.png,English,Cars,A car parked on a street,31579,1,hatchback,modern,,,auto-CLIP-zeroshot
+ENG_294_Cars_Bias_00001_.png,English,Cars,A car parked on a street,59672,1,hatchback,modern,,,auto-CLIP-zeroshot
+ENG_295_Cars_Bias_00001_.png,English,Cars,A car parked on a street,10282,1,hatchback,modern,,,auto-CLIP-zeroshot
+ENG_296_Cars_Bias_00001_.png,English,Cars,A car parked on a street,61173,1,hatchback,modern,,,auto-CLIP-zeroshot
+ENG_297_Cars_Bias_00001_.png,English,Cars,A car parked on a street,44760,1,hatchback,modern,,,auto-CLIP-zeroshot
+ENG_298_Cars_Bias_00001_.png,English,Cars,A car parked on a street,69638,1,sedan,modern,,,auto-CLIP-zeroshot
+ENG_299_Cars_Bias_00001_.png,English,Cars,A car parked on a street,47388,1,wagon,vintage,,,auto-CLIP-zeroshot
+ENG_300_Cars_Bias_00001_.png,English,Cars,A car parked on a street,65444,1,hatchback,modern,,,auto-CLIP-zeroshot
+ENG_401_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,76244,1,shirt,masculine,,,auto-CLIP-zeroshot
+ENG_402_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,74032,1,trousers,feminine,,,auto-CLIP-zeroshot
+ENG_403_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,42914,1,suit,masculine,,,auto-CLIP-zeroshot
+ENG_404_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,16658,1,jacket,feminine,,,auto-CLIP-zeroshot
+ENG_405_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,22097,1,jacket,feminine,,,auto-CLIP-zeroshot
+ENG_406_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,93136,1,trousers,feminine,,,auto-CLIP-zeroshot
+ENG_407_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,65518,1,jacket,feminine,,,auto-CLIP-zeroshot
+ENG_408_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,46265,1,shirt,feminine,,,auto-CLIP-zeroshot
+ENG_409_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,15778,1,t-shirt,masculine,,,auto-CLIP-zeroshot
+ENG_410_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,10464,1,jacket,feminine,,,auto-CLIP-zeroshot
+ENG_411_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,53719,1,trousers,neutral,,,auto-CLIP-zeroshot
+ENG_412_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,27146,1,jacket,feminine,,,auto-CLIP-zeroshot
+ENG_413_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,93507,1,trousers,feminine,,,auto-CLIP-zeroshot
+ENG_414_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,44335,1,dress,feminine,,,auto-CLIP-zeroshot
+ENG_415_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,31178,1,dress,feminine,,,auto-CLIP-zeroshot
+ENG_416_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,67912,1,dress,feminine,,,auto-CLIP-zeroshot
+ENG_417_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,82309,1,suit,masculine,,,auto-CLIP-zeroshot
+ENG_418_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,66057,1,trousers,feminine,,,auto-CLIP-zeroshot
+ENG_419_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,83519,1,shirt,feminine,,,auto-CLIP-zeroshot
+ENG_420_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,11267,1,trousers,feminine,,,auto-CLIP-zeroshot
+ENG_421_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,24663,1,suit,masculine,,,auto-CLIP-zeroshot
+ENG_422_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,19862,1,suit,masculine,,,auto-CLIP-zeroshot
+ENG_423_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,29536,1,suit,feminine,,,auto-CLIP-zeroshot
+ENG_424_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,81511,1,suit,masculine,,,auto-CLIP-zeroshot
+ENG_425_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,14722,1,trousers,masculine,,,auto-CLIP-zeroshot
+ENG_426_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,58393,1,suit,masculine,,,auto-CLIP-zeroshot
+ENG_427_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,86350,1,suit,feminine,,,auto-CLIP-zeroshot
+ENG_428_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,82420,1,suit,feminine,,,auto-CLIP-zeroshot
+ENG_429_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,29410,1,suit,feminine,,,auto-CLIP-zeroshot
+ENG_430_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,66333,1,suit,feminine,,,auto-CLIP-zeroshot
+ENG_431_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,26704,1,sweater,feminine,,,auto-CLIP-zeroshot
+ENG_432_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,15482,1,shirt,feminine,,,auto-CLIP-zeroshot
+ENG_433_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,50404,1,jacket,neutral,,,auto-CLIP-zeroshot
+ENG_434_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,57795,1,trousers,feminine,,,auto-CLIP-zeroshot
+ENG_435_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,15229,1,sweater,feminine,,,auto-CLIP-zeroshot
+ENG_436_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,56898,1,t-shirt,feminine,,,auto-CLIP-zeroshot
+ENG_437_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,37535,1,t-shirt,feminine,,,auto-CLIP-zeroshot
+ENG_438_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,99399,1,t-shirt,masculine,,,auto-CLIP-zeroshot
+ENG_439_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,42706,1,t-shirt,feminine,,,auto-CLIP-zeroshot
+ENG_440_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,97416,1,t-shirt,feminine,,,auto-CLIP-zeroshot
+ENG_441_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,23473,1,jacket,feminine,,,auto-CLIP-zeroshot
+ENG_442_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,56357,1,dress,feminine,,,auto-CLIP-zeroshot
+ENG_443_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,83385,1,dress,feminine,,,auto-CLIP-zeroshot
+ENG_444_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,63264,1,dress,feminine,,,auto-CLIP-zeroshot
+ENG_445_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,91351,1,dress,feminine,,,auto-CLIP-zeroshot
+ENG_446_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,30257,1,dress,feminine,,,auto-CLIP-zeroshot
+ENG_447_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,41029,1,dress,feminine,,,auto-CLIP-zeroshot
+ENG_448_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,31299,1,trousers,feminine,,,auto-CLIP-zeroshot
+ENG_449_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,33206,1,dress,feminine,,,auto-CLIP-zeroshot
+ENG_450_Clothes_Bias_00001_.png,English,Clothes,A set of clothes draped over a chair,64040,1,dress,feminine,,,auto-CLIP-zeroshot
+ENG_551_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,70946,1,mixed,summer,,,auto-CLIP-zeroshot
+ENG_552_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,67905,1,mixed,summer,,,auto-CLIP-zeroshot
+ENG_553_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,67954,1,mixed,summer,,,auto-CLIP-zeroshot
+ENG_554_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,98555,1,mixed,summer,,,auto-CLIP-zeroshot
+ENG_555_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,38010,1,mixed,summer,,,auto-CLIP-zeroshot
+ENG_556_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,77000,1,mixed,summer,,,auto-CLIP-zeroshot
+ENG_557_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,72021,1,deciduous,summer,,,auto-CLIP-zeroshot
+ENG_558_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,32241,1,mixed,summer,,,auto-CLIP-zeroshot
+ENG_559_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,96356,1,mixed,summer,,,auto-CLIP-zeroshot
+ENG_560_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,21114,1,mixed,summer,,,auto-CLIP-zeroshot
+ENG_561_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,47196,1,mixed,summer,,,auto-CLIP-zeroshot
+ENG_562_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,77561,1,deciduous,summer,,,auto-CLIP-zeroshot
+ENG_563_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,97012,1,deciduous,summer,,,auto-CLIP-zeroshot
+ENG_564_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,92960,1,mixed,summer,,,auto-CLIP-zeroshot
+ENG_565_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,91167,1,mixed,summer,,,auto-CLIP-zeroshot
+ENG_566_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,53933,1,mixed,summer,,,auto-CLIP-zeroshot
+ENG_567_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,22240,1,mixed,summer,,,auto-CLIP-zeroshot
+ENG_568_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,40784,1,coniferous,summer,,,auto-CLIP-zeroshot
+ENG_569_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,98184,1,mixed,summer,,,auto-CLIP-zeroshot
+ENG_570_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,50687,1,mixed,summer,,,auto-CLIP-zeroshot
+ENG_571_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,39444,1,mixed,summer,,,auto-CLIP-zeroshot
+ENG_572_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,36100,1,mixed,summer,,,auto-CLIP-zeroshot
+ENG_573_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,29313,1,deciduous,summer,,,auto-CLIP-zeroshot
+ENG_574_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,13201,1,mixed,summer,,,auto-CLIP-zeroshot
+ENG_575_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,16057,1,coniferous,summer,,,auto-CLIP-zeroshot
+ENG_576_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,42092,1,mixed,summer,,,auto-CLIP-zeroshot
+ENG_577_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,72277,1,mixed,summer,,,auto-CLIP-zeroshot
+ENG_578_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,90120,1,mixed,summer,,,auto-CLIP-zeroshot
+ENG_579_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,19545,1,deciduous,summer,,,auto-CLIP-zeroshot
+ENG_580_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,69692,1,deciduous,summer,,,auto-CLIP-zeroshot
+ENG_581_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,64321,1,deciduous,summer,,,auto-CLIP-zeroshot
+ENG_582_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,92544,1,deciduous,autumn,,,auto-CLIP-zeroshot
+ENG_583_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,85454,1,mixed,summer,,,auto-CLIP-zeroshot
+ENG_584_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,35485,1,mixed,summer,,,auto-CLIP-zeroshot
+ENG_585_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,60328,1,mixed,summer,,,auto-CLIP-zeroshot
+ENG_586_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,74799,1,mixed,summer,,,auto-CLIP-zeroshot
+ENG_587_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,62383,1,mixed,summer,,,auto-CLIP-zeroshot
+ENG_588_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,41979,1,mixed,summer,,,auto-CLIP-zeroshot
+ENG_589_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,29342,1,mixed,summer,,,auto-CLIP-zeroshot
+ENG_590_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,95990,1,mixed,summer,,,auto-CLIP-zeroshot
+ENG_591_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,10726,1,mixed,summer,,,auto-CLIP-zeroshot
+ENG_592_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,23970,1,mixed,summer,,,auto-CLIP-zeroshot
+ENG_593_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,65724,1,coniferous,summer,,,auto-CLIP-zeroshot
+ENG_594_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,38683,1,mixed,summer,,,auto-CLIP-zeroshot
+ENG_595_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,33053,1,mixed,summer,,,auto-CLIP-zeroshot
+ENG_596_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,77889,1,mixed,summer,,,auto-CLIP-zeroshot
+ENG_597_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,70889,1,mixed,summer,,,auto-CLIP-zeroshot
+ENG_598_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,16582,1,mixed,summer,,,auto-CLIP-zeroshot
+ENG_599_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,83060,1,mixed,summer,,,auto-CLIP-zeroshot
+ENG_600_Forest_Bias_00001_.png,English,Forest,A landscape photo of a deep forest,42662,1,mixed,summer,,,auto-CLIP-zeroshot

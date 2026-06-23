@@ -52,7 +52,7 @@ def cohen_d_independent(a, b):
 
 def d_interpretation(d):
     a = abs(d)
-    return ("insignificant" if a < 0.2 else "small" if a < 0.5 else "medium" if a < 0.8 else "large")
+    return ("negligible" if a < 0.2 else "small" if a < 0.5 else "medium" if a < 0.8 else "large")
 
 def load_paired():
     da = pd.read_csv(EVAL_DIR / "evaluated_results_clip_danish.csv")
