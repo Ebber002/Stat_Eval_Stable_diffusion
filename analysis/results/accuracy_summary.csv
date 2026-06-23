@@ -1,0 +1,9 @@
+language,subject,n,mean,sd,95ci_lo,95ci_hi
+Danish,Fruit,50,0.2511,0.02,0.2454,0.2568
+Danish,Cars,50,0.2616,0.0154,0.2572,0.2659
+Danish,Clothes,50,0.2204,0.0153,0.216,0.2247
+Danish,Forest,50,0.2536,0.0102,0.2507,0.2565
+English,Fruit,50,0.289,0.0174,0.284,0.2939
+English,Cars,50,0.2649,0.0137,0.261,0.2688
+English,Clothes,50,0.3091,0.0184,0.3039,0.3144
+English,Forest,50,0.3079,0.0076,0.3057,0.3101

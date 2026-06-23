@@ -6,8 +6,8 @@ from PIL import Image
 import glob
 import os
 
-CSV_FILE = "prompts/prompts_danish.csv"
-IMAGE_DIR = "outputs/output_danish"
+CSV_FILE = "prompts/prompts_english.csv"
+IMAGE_DIR = "outputs/output_english"
 OUTPUT_CSV = "evaluated_results_clip.csv"
 LANGUAGE = "ENG"
 
@@ -30,7 +30,7 @@ for index, row in df.iterrows():
     eval_type = row["Evaluation_Type"]
     prompt_text = row["Prompt"]
 
-    search = os.path.join(IMAGE_DIR, f"{img_id}_{subject}_{eval_type}*.png") # <-- add LANGUAGE at before {img_id} for english images
+    search = os.path.join(IMAGE_DIR, f"{LANGUAGE}_{img_id}_{subject}_{eval_type}*.png") # <-- add LANGUAGE at before {img_id} for english images
     matched_files = glob.glob(search)
 
     if not matched_files:

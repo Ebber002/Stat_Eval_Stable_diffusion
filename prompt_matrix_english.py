@@ -79,7 +79,7 @@ for subject, categories in prompt_data.items():
                 "ID": f"{image_id:03d}",
                 "Subject": subject,
                 "Evaluation_Type": "Robustness",
-                "Prompt": base_prompt,
+                "Prompt": prompt,
                 "Seed": seed
             })
             image_id += 1
